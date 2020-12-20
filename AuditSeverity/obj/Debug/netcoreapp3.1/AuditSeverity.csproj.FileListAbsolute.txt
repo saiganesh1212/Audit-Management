@@ -1,0 +1,1063 @@
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csprojAssemblyReference.cache
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfoInputs.cache
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfo.cs
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CoreCompileInputs.cache
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cache
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfoInputs.cache
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfo.cs
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CoreCompileInputs.cache
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cs
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cache
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.exe
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.deps.json
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.json
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.dev.json
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.pdb
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.Manifest.cache
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.xml
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuditSeverity.styles.css
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.RazorTargetAssemblyInfo.cache
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CopyComplete
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.dll
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.pdb
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.genruntimeconfig.cache
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csprojAssemblyReference.cache
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.exe
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.deps.json
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.json
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.dev.json
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.pdb
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.RazorTargetAssemblyInfo.cache
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CopyComplete
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.Manifest.cache
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.xml
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.dll
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.pdb
+C:\Users\perap\source\repos\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.genruntimeconfig.cache
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\Log4net.config
+C:\Users\perap\source\repos\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.yaml
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csprojAssemblyReference.cache
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CoreCompileInputs.cache
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cs
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cache
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfoInputs.cache
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfo.cs
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.dll
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.pdb
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Log4net.config
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.exe
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.yaml
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.deps.json
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.json
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.dev.json
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.pdb
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.RazorTargetAssemblyInfo.cache
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CopyComplete
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.Manifest.cache
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.xml
+G:\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.genruntimeconfig.cache
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Log4net.config
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.exe
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.yaml
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.deps.json
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.json
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.dev.json
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.pdb
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\AuditManagement-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csprojAssemblyReference.cache
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfoInputs.cache
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfo.cs
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CoreCompileInputs.cache
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cs
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cache
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.Manifest.cache
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.xml
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuditSeverity.styles.css
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.RazorTargetAssemblyInfo.cache
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CopyComplete
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.dll
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.pdb
+D:\AuditManagement-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.genruntimeconfig.cache
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Log4net.config
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.exe
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.yaml
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.deps.json
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.json
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.dev.json
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.pdb
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csprojAssemblyReference.cache
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfoInputs.cache
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfo.cs
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.RazorTargetAssemblyInfo.cache
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CopyComplete
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.Manifest.cache
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.xml
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.dll
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.pdb
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.genruntimeconfig.cache
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Log4net.config
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.exe
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.yaml
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.deps.json
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.json
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.dev.json
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.pdb
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Audit-Management-main\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csprojAssemblyReference.cache
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfoInputs.cache
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfo.cs
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CoreCompileInputs.cache
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cs
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cache
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.Manifest.cache
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.xml
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuditSeverity.styles.css
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.RazorTargetAssemblyInfo.cache
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CopyComplete
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.dll
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.pdb
+D:\Audit-Management-main\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.genruntimeconfig.cache
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Log4net.config
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.exe
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.yaml
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.deps.json
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.json
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.runtimeconfig.dev.json
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\AuditSeverity.pdb
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Audit Management\AuditSeverity\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csprojAssemblyReference.cache
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfoInputs.cache
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.AssemblyInfo.cs
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CoreCompileInputs.cache
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cs
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cache
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.Manifest.cache
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\staticwebassets\AuditSeverity.StaticWebAssets.xml
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuditSeverity.styles.css
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.RazorTargetAssemblyInfo.cache
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CopyComplete
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.dll
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.pdb
+D:\Audit Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.genruntimeconfig.cache
+G:\Final\Audit-Management\AuditSeverity\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.csproj.CoreCompileInputs.cache
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cs
+G:\Final\Audit-Management\AuditSeverity\obj\Debug\netcoreapp3.1\AuditSeverity.MvcApplicationPartsAssemblyInfo.cache

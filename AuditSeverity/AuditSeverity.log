@@ -1,0 +1,493 @@
+INFO  09:29:17 Application started. Press Ctrl+C to shut down.
+INFO  09:29:17 Application started. Press Ctrl+C to shut down.
+INFO  09:29:17 Hosting environment: Development
+INFO  09:29:17 Hosting environment: Development
+INFO  09:29:17 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  09:29:17 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  09:09:55 Application started. Press Ctrl+C to shut down.
+INFO  09:09:55 Application started. Press Ctrl+C to shut down.
+INFO  09:09:55 Hosting environment: Development
+INFO  09:09:55 Hosting environment: Development
+INFO  09:09:55 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  09:09:55 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  09:11:00 Audit Response is displayed
+ERROR 09:11:07 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:11:07 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:15:43 Application started. Press Ctrl+C to shut down.
+INFO  09:15:43 Application started. Press Ctrl+C to shut down.
+INFO  09:15:43 Hosting environment: Development
+INFO  09:15:43 Hosting environment: Development
+INFO  09:15:43 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  09:15:43 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  09:17:52 Audit Response is displayed
+ERROR 09:17:52 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:17:52 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:19:16 Application started. Press Ctrl+C to shut down.
+INFO  09:19:16 Application started. Press Ctrl+C to shut down.
+INFO  09:19:16 Hosting environment: Development
+INFO  09:19:16 Hosting environment: Development
+INFO  09:19:16 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  09:19:16 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  09:20:32 Application started. Press Ctrl+C to shut down.
+INFO  09:20:32 Application started. Press Ctrl+C to shut down.
+INFO  09:20:32 Hosting environment: Development
+INFO  09:20:32 Hosting environment: Development
+INFO  09:20:32 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  09:20:33 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  09:21:03 Audit Response is displayed
+ERROR 09:21:04 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:21:04 An unhandled exception has occurred while executing the request.
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  10:16:32 Application started. Press Ctrl+C to shut down.
+INFO  10:16:33 Application started. Press Ctrl+C to shut down.
+INFO  10:16:33 Hosting environment: Development
+INFO  10:16:33 Hosting environment: Development
+INFO  10:16:33 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  10:16:33 Content root path: C:\Users\perap\source\repos\AuditSeverity
+INFO  10:17:32 Audit Response is displayed
+INFO  10:18:23 Audit Response is displayed
+INFO  10:52:51 Application started. Press Ctrl+C to shut down.
+INFO  10:52:51 Application started. Press Ctrl+C to shut down.
+INFO  10:52:51 Hosting environment: Development
+INFO  10:52:51 Hosting environment: Development
+INFO  10:52:51 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  10:52:51 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  10:54:37 Application started. Press Ctrl+C to shut down.
+INFO  10:54:37 Application started. Press Ctrl+C to shut down.
+INFO  10:54:37 Hosting environment: Development
+INFO  10:54:37 Hosting environment: Development
+INFO  10:54:37 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  10:54:37 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  10:55:54 Application started. Press Ctrl+C to shut down.
+INFO  10:55:54 Application started. Press Ctrl+C to shut down.
+INFO  10:55:54 Hosting environment: Development
+INFO  10:55:54 Hosting environment: Development
+INFO  10:55:54 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  10:55:54 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  10:57:49 Application started. Press Ctrl+C to shut down.
+INFO  10:57:49 Application started. Press Ctrl+C to shut down.
+INFO  10:57:49 Hosting environment: Development
+INFO  10:57:49 Hosting environment: Development
+INFO  10:57:49 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  10:57:49 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  10:58:33 Audit Response is displayed of project name - Audit
+INFO  10:58:33 Successfully calculated audit status of project name - Audit
+INFO  11:29:27 Application started. Press Ctrl+C to shut down.
+INFO  11:29:27 Application started. Press Ctrl+C to shut down.
+INFO  11:29:27 Hosting environment: Development
+INFO  11:29:27 Hosting environment: Development
+INFO  11:29:27 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  11:29:27 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  11:30:24 Audit Response is displayed of project name - Audit
+INFO  11:30:24 Successfully calculated audit status of project name - Audit
+INFO  11:31:03 Audit Response is displayed of project name - Audit
+INFO  11:31:03 Successfully calculated audit status of project name - Audit
+INFO  11:32:03 Audit Response is displayed of project name - Audit
+INFO  11:32:03 Successfully calculated audit status of project name - Audit
+INFO  11:32:31 Audit Response is displayed of project name - Audit
+INFO  11:32:31 Successfully calculated audit status of project name - Audit
+INFO  11:35:55 Application started. Press Ctrl+C to shut down.
+INFO  11:35:55 Application started. Press Ctrl+C to shut down.
+INFO  11:35:55 Hosting environment: Development
+INFO  11:35:55 Hosting environment: Development
+INFO  11:35:55 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  11:35:55 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  11:41:31 Application started. Press Ctrl+C to shut down.
+INFO  11:41:31 Application started. Press Ctrl+C to shut down.
+INFO  11:41:31 Hosting environment: Development
+INFO  11:41:31 Hosting environment: Development
+INFO  11:41:32 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  11:41:32 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  11:42:21 Application started. Press Ctrl+C to shut down.
+INFO  11:42:21 Application started. Press Ctrl+C to shut down.
+INFO  11:42:21 Hosting environment: Development
+INFO  11:42:21 Hosting environment: Development
+INFO  11:42:21 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  11:42:21 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  11:43:46 Application started. Press Ctrl+C to shut down.
+INFO  11:43:46 Application started. Press Ctrl+C to shut down.
+INFO  11:43:46 Hosting environment: Development
+INFO  11:43:46 Hosting environment: Development
+INFO  11:43:46 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  11:43:46 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  12:15:45 Application started. Press Ctrl+C to shut down.
+INFO  12:15:45 Application started. Press Ctrl+C to shut down.
+INFO  12:15:45 Hosting environment: Development
+INFO  12:15:45 Hosting environment: Development
+INFO  12:15:45 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  12:15:45 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  12:16:40 Final response is 129470266
+INFO  12:16:40 Audit Response is displayed of project name - Audit
+INFO  12:16:40 Successfully calculated audit status of project name - Audit
+INFO  12:18:57 Application started. Press Ctrl+C to shut down.
+INFO  12:18:57 Application started. Press Ctrl+C to shut down.
+INFO  12:18:57 Hosting environment: Development
+INFO  12:18:57 Hosting environment: Development
+INFO  12:18:57 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  12:18:57 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  12:20:05 Final response is 764797826
+INFO  12:20:05 Audit Response is displayed of project name - Bank
+INFO  12:20:05 Successfully calculated audit status of project name - Bank
+INFO  01:22:36 Application started. Press Ctrl+C to shut down.
+INFO  01:22:36 Application started. Press Ctrl+C to shut down.
+INFO  01:22:36 Hosting environment: Development
+INFO  01:22:36 Hosting environment: Development
+INFO  01:22:36 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:22:36 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:28:42 Application started. Press Ctrl+C to shut down.
+INFO  01:28:42 Application started. Press Ctrl+C to shut down.
+INFO  01:28:43 Hosting environment: Development
+INFO  01:28:43 Hosting environment: Development
+INFO  01:28:43 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:28:43 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:30:56 Final response is 1567324196
+INFO  01:30:56 Audit Response is displayed of project name - BankingApp
+INFO  01:30:56 Successfully calculated audit status of project name - BankingApp
+INFO  01:45:01 Application started. Press Ctrl+C to shut down.
+INFO  01:45:01 Application started. Press Ctrl+C to shut down.
+INFO  01:45:01 Hosting environment: Development
+INFO  01:45:01 Hosting environment: Development
+INFO  01:45:01 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:45:01 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:46:16 Final response is 1571509906
+INFO  01:46:16 Audit Response is displayed of project name - ECommerce
+INFO  01:46:16 Successfully calculated audit status of project name - ECommerce
+INFO  01:47:36 Application started. Press Ctrl+C to shut down.
+INFO  01:47:36 Application started. Press Ctrl+C to shut down.
+INFO  01:47:36 Hosting environment: Development
+INFO  01:47:36 Hosting environment: Development
+INFO  01:47:36 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:47:36 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:48:34 Final response is 1609698882
+INFO  01:48:34 Audit Response is displayed of project name - ECommerce
+INFO  01:48:34 Successfully calculated audit status of project name - ECommerce
+INFO  01:49:10 Final response is 2022417067
+INFO  01:49:10 Audit Response is displayed of project name - Audit
+INFO  01:49:10 Successfully calculated audit status of project name - Audit
+INFO  01:52:40 Application started. Press Ctrl+C to shut down.
+INFO  01:52:40 Application started. Press Ctrl+C to shut down.
+INFO  01:52:40 Hosting environment: Development
+INFO  01:52:40 Hosting environment: Development
+INFO  01:52:40 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:52:40 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:54:16 Final response is 296114833
+INFO  01:54:16 Audit Response is displayed of project name - Website
+INFO  01:54:16 Successfully calculated audit status of project name - Website
+INFO  01:56:06 Application started. Press Ctrl+C to shut down.
+INFO  01:56:06 Application started. Press Ctrl+C to shut down.
+INFO  01:56:06 Hosting environment: Development
+INFO  01:56:06 Hosting environment: Development
+INFO  01:56:06 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:56:06 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  01:57:24 Final response is 549766976
+INFO  01:57:24 Audit Response is displayed of project name - Food Ordering APP
+INFO  01:57:24 Successfully calculated audit status of project name - Food Ordering APP
+INFO  03:36:42 Application started. Press Ctrl+C to shut down.
+INFO  03:36:42 Application started. Press Ctrl+C to shut down.
+INFO  03:36:42 Hosting environment: Development
+INFO  03:36:42 Hosting environment: Development
+INFO  03:36:42 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  03:36:42 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  03:37:56 Final response is 656724345
+INFO  03:37:56 Audit Response is displayed of project name - Audit
+INFO  03:37:56 Successfully calculated audit status of project name - Audit
+INFO  03:38:09 Final response is 1395940624
+INFO  03:38:09 Audit Response is displayed of project name - Audit
+INFO  03:38:09 Successfully calculated audit status of project name - Audit
+INFO  03:38:16 Final response is 34616821
+INFO  03:38:16 Audit Response is displayed of project name - Audit
+INFO  03:38:16 Successfully calculated audit status of project name - Audit
+INFO  03:51:22 Application started. Press Ctrl+C to shut down.
+INFO  03:51:22 Application started. Press Ctrl+C to shut down.
+INFO  03:51:22 Hosting environment: Development
+INFO  03:51:22 Hosting environment: Development
+INFO  03:51:22 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  03:51:22 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  03:52:39 Final response is 897341216
+INFO  03:52:39 Audit Response is displayed of project name - Music App
+INFO  03:52:39 Successfully calculated audit status of project name - Music App
+INFO  04:44:18 Application started. Press Ctrl+C to shut down.
+INFO  04:44:18 Application started. Press Ctrl+C to shut down.
+INFO  04:44:18 Hosting environment: Development
+INFO  04:44:18 Hosting environment: Development
+INFO  04:44:18 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  04:44:18 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  04:46:47 Application started. Press Ctrl+C to shut down.
+INFO  04:46:47 Application started. Press Ctrl+C to shut down.
+INFO  04:46:47 Hosting environment: Development
+INFO  04:46:47 Hosting environment: Development
+INFO  04:46:47 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  04:46:47 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  04:49:58 Application started. Press Ctrl+C to shut down.
+INFO  04:49:58 Application started. Press Ctrl+C to shut down.
+INFO  04:49:58 Hosting environment: Development
+INFO  04:49:58 Hosting environment: Development
+INFO  04:49:58 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  04:49:58 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  04:51:53 Application started. Press Ctrl+C to shut down.
+INFO  04:51:53 Application started. Press Ctrl+C to shut down.
+INFO  04:51:53 Hosting environment: Development
+INFO  04:51:53 Hosting environment: Development
+INFO  04:51:53 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  04:51:53 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  04:57:49 Application started. Press Ctrl+C to shut down.
+INFO  04:57:50 Application started. Press Ctrl+C to shut down.
+INFO  04:57:50 Hosting environment: Development
+INFO  04:57:50 Hosting environment: Development
+INFO  04:57:50 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  04:57:50 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  04:58:41 Application started. Press Ctrl+C to shut down.
+INFO  04:58:41 Application started. Press Ctrl+C to shut down.
+INFO  04:58:41 Hosting environment: Development
+INFO  04:58:41 Hosting environment: Development
+INFO  04:58:41 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  04:58:41 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  05:00:04 Final response is 1899307485
+INFO  05:00:04 Audit Response is displayed of project name - Bank
+INFO  05:00:04 Successfully calculated audit status of project name - Bank
+INFO  06:00:50 Application started. Press Ctrl+C to shut down.
+INFO  06:00:50 Application started. Press Ctrl+C to shut down.
+INFO  06:00:50 Hosting environment: Development
+INFO  06:00:50 Hosting environment: Development
+INFO  06:00:50 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  06:00:50 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  06:03:23 Final response is 300803000
+INFO  06:03:23 Audit Response is displayed of project name - ECommerce
+INFO  06:03:23 Successfully calculated audit status of project name - ECommerce
+INFO  06:04:02 Final response is 1375616173
+INFO  06:04:02 Audit Response is displayed of project name - Bank
+INFO  06:04:02 Successfully calculated audit status of project name - Bank
+INFO  06:07:28 Application started. Press Ctrl+C to shut down.
+INFO  06:07:28 Application started. Press Ctrl+C to shut down.
+INFO  06:07:28 Hosting environment: Development
+INFO  06:07:28 Hosting environment: Development
+INFO  06:07:28 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  06:07:28 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  06:08:44 Final response is 1989563508
+INFO  06:08:44 Audit Response is displayed of project name - Bank
+INFO  06:08:44 Successfully calculated audit status of project name - Bank
+INFO  06:12:14 Application started. Press Ctrl+C to shut down.
+INFO  06:12:14 Application started. Press Ctrl+C to shut down.
+INFO  06:12:14 Hosting environment: Development
+INFO  06:12:14 Hosting environment: Development
+INFO  06:12:14 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  06:12:14 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  07:13:32 Application started. Press Ctrl+C to shut down.
+INFO  07:13:32 Application started. Press Ctrl+C to shut down.
+INFO  07:13:32 Hosting environment: Development
+INFO  07:13:32 Hosting environment: Development
+INFO  07:13:32 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  07:13:32 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  07:14:30 Final response is 1111131138
+INFO  07:14:30 Audit Response is displayed of project name - Website
+INFO  07:14:30 Successfully calculated audit status of project name - Website
+INFO  07:31:36 Application started. Press Ctrl+C to shut down.
+INFO  07:31:36 Application started. Press Ctrl+C to shut down.
+INFO  07:31:36 Hosting environment: Development
+INFO  07:31:36 Hosting environment: Development
+INFO  07:31:36 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  07:31:36 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  07:33:39 Final response is 2058688535
+INFO  07:33:39 Audit Response is displayed of project name - ELearning APP
+INFO  07:33:39 Successfully calculated audit status of project name - ELearning APP
+INFO  02:23:31 Application started. Press Ctrl+C to shut down.
+INFO  02:23:31 Application started. Press Ctrl+C to shut down.
+INFO  02:23:31 Hosting environment: Development
+INFO  02:23:31 Hosting environment: Development
+INFO  02:23:31 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  02:23:31 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  02:25:18 Application started. Press Ctrl+C to shut down.
+INFO  02:25:18 Application started. Press Ctrl+C to shut down.
+INFO  02:25:18 Hosting environment: Development
+INFO  02:25:18 Hosting environment: Development
+INFO  02:25:18 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  02:25:18 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  02:26:57 Successfully got the response from benchmark service having id 1899211566
+INFO  02:27:03 Audit Response is displayed of project name - Audit
+INFO  02:27:06 Successfully calculated audit status of project name - Audit
+INFO  06:27:23 Application started. Press Ctrl+C to shut down.
+INFO  06:27:23 Application started. Press Ctrl+C to shut down.
+INFO  06:27:23 Hosting environment: Development
+INFO  06:27:23 Hosting environment: Development
+INFO  06:27:23 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  06:27:23 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  06:28:29 Successfully got the response from benchmark service having id 1902995973
+INFO  06:28:29 Audit Response is displayed of project name - ECommerce
+INFO  06:28:29 Successfully calculated audit status of project name - ECommerce
+INFO  06:50:10 Application started. Press Ctrl+C to shut down.
+INFO  06:50:10 Application started. Press Ctrl+C to shut down.
+INFO  06:50:10 Hosting environment: Development
+INFO  06:50:10 Hosting environment: Development
+INFO  06:50:10 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  06:50:10 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  06:54:28 Application started. Press Ctrl+C to shut down.
+INFO  06:54:28 Application started. Press Ctrl+C to shut down.
+INFO  06:54:28 Hosting environment: Development
+INFO  06:54:28 Hosting environment: Development
+INFO  06:54:28 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  06:54:28 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  06:57:35 Successfully got the response from benchmark service having id 194855139
+INFO  06:57:35 Audit Response is displayed of project name - Website
+INFO  06:57:35 Successfully calculated audit status of project name - Website
+INFO  07:49:13 Application started. Press Ctrl+C to shut down.
+INFO  07:49:13 Application started. Press Ctrl+C to shut down.
+INFO  07:49:13 Hosting environment: Development
+INFO  07:49:13 Hosting environment: Development
+INFO  07:49:13 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  07:49:13 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  07:50:29 Application started. Press Ctrl+C to shut down.
+INFO  07:50:29 Application started. Press Ctrl+C to shut down.
+INFO  07:50:29 Hosting environment: Development
+INFO  07:50:29 Hosting environment: Development
+INFO  07:50:29 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  07:50:29 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  07:57:01 Application started. Press Ctrl+C to shut down.
+INFO  07:57:01 Application started. Press Ctrl+C to shut down.
+INFO  07:57:01 Hosting environment: Development
+INFO  07:57:01 Hosting environment: Development
+INFO  07:57:01 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  07:57:01 Content root path: G:\Final\Audit-Management\AuditSeverity
+ERROR 07:57:39 Unexpected error has occured with message No connection could be made because the target machine actively refused it.
+INFO  07:57:39 Audit Response is displayed of project name - ECommerce
+INFO  07:59:25 Application started. Press Ctrl+C to shut down.
+INFO  07:59:25 Application started. Press Ctrl+C to shut down.
+INFO  07:59:25 Hosting environment: Development
+INFO  07:59:25 Hosting environment: Development
+INFO  07:59:25 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  07:59:25 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  08:00:33 Application started. Press Ctrl+C to shut down.
+INFO  08:00:33 Application started. Press Ctrl+C to shut down.
+INFO  08:00:33 Hosting environment: Development
+INFO  08:00:33 Hosting environment: Development
+INFO  08:00:33 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  08:00:33 Content root path: G:\Final\Audit-Management\AuditSeverity
+ERROR 08:01:16 Unexpected error has occured with message Unexpected character encountered while parsing value: S. Path '', line 0, position 0.
+INFO  08:01:20 Audit Response is displayed of project name - ECommerce
+INFO  08:03:47 Application started. Press Ctrl+C to shut down.
+INFO  08:03:47 Application started. Press Ctrl+C to shut down.
+INFO  08:03:47 Hosting environment: Development
+INFO  08:03:47 Hosting environment: Development
+INFO  08:03:47 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  08:03:47 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  08:03:55 Successfully got the response from benchmark service having id 417310446
+INFO  08:03:55 Audit Response is displayed of project name - ECommerce
+INFO  08:03:55 Successfully calculated audit status of project name - ECommerce
+INFO  08:04:07 Successfully got the response from benchmark service having id 1433015973
+INFO  08:04:07 Audit Response is displayed of project name - ECommerce
+INFO  08:04:07 Successfully calculated audit status of project name - ECommerce
+INFO  08:12:38 Application started. Press Ctrl+C to shut down.
+INFO  08:12:38 Application started. Press Ctrl+C to shut down.
+INFO  08:12:38 Hosting environment: Development
+INFO  08:12:38 Hosting environment: Development
+INFO  08:12:38 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  08:12:38 Content root path: G:\Final\Audit-Management\AuditSeverity
+INFO  08:14:23 Successfully got the response from benchmark service having id 254548434
+INFO  08:14:23 Audit Response is displayed of project name - ECommerce
+INFO  08:14:23 Successfully calculated audit status of project name - ECommerce
