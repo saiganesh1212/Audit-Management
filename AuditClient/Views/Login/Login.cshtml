@@ -1,0 +1,57 @@
+﻿@model AuditClient.Models.User
+
+@{
+    Layout = null;
+}
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+                <div class="card card-signin my-5">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Sign In</h5>
+                        <form asp-action="Login" class="form-signin">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            @Html.HiddenFor(x => x.UserId)
+                            <p class="text-danger">@ViewBag.message</p>
+                            <div class="form-label-group">
+                                @Html.TextBoxFor(x => x.Username, new { @class = "form-control", @id = "inputEmail", autofocus = "autofocus", @placeholder = "User Name" })
+                                <span asp-validation-for="Username" class="text-danger"></span>
+                                <label for="inputEmail">User Name</label>
+                            </div>
+
+                            <div class="form-label-group">
+                                @Html.PasswordFor(x => x.Password, new { @class = "form-control", @id = "inputPassword", autofocus = "autofocus", @placeholder = "Password" })
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                                <label for="inputPassword">Password</label>
+                            </div>
+                            <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Login</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2020 -Auditing
+        </div>
+    </footer>
+</body>
+</html>

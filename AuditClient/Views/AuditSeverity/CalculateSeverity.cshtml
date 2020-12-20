@@ -1,0 +1,74 @@
+﻿@model AuditClient.Models.AuditResponse
+
+@{
+    ViewData["Title"] = "CalculateSeverity";
+}
+    <head>
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    </head>
+<div>
+    <hr />
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+                <div class="card card-signin my-5">
+                    <div class="card-body">
+                        <h5 class="card-title text-center"><strong>Audit Response</strong></h5>
+                        <dl class="row">
+                            <dt class="col-lg-9">
+                                @*@Html.DisplayNameFor(model => model.AuditId)*@
+                                <label asp-for="AuditId" class="control-label">Audit Id</label>
+                            </dt>
+                            <dd class="col-lg-9">
+                                @Html.DisplayFor(model => model.AuditId)
+                            </dd>
+                        </dl>
+                        <dl class="row">
+                            <dt class="col-lg-9">
+                                
+                                <label asp-for="ProjectExecutionStatus" class="control-label">Project Execution Status</label>
+                            </dt>
+                          
+                            <dd class="col-lg-9">
+
+                                <div class="row">
+                                    <div class="col-4">
+                                        @Html.DisplayFor(model => model.ProjectExecutionStatus)
+                                    </div>
+                                    <div class="col-3">
+                                        @if (@Model.ProjectExecutionStatus.ToString() == "RED")
+                                        {
+                                            <span class="material-icons" style="color:red;padding-left:inherit;margin-top:inherit">
+                                                report
+                                            </span>
+                                        }
+                                        else
+                                        {
+                                            <span class="material-icons" style="color:green;padding-left:inherit;margin-top:inherit">
+                                                check_circle
+                                            </span>
+                                        }
+                                    </div>
+                                    <div class="col-5">
+
+                                    </div>
+                                </div>
+                            </dd>
+                        </dl>
+                        <dl class="row">
+                            <dt class="col-lg-9">
+                                @*@Html.DisplayNameFor(model => model.RemedialActionDuration)*@
+                                <label asp-for="RemedialActionDuration" class="control-label">Remedial Action Duration</label>
+                            </dt>
+                            <dd class="col-lg-9">
+                                @Html.DisplayFor(model => model.RemedialActionDuration)
+                            </dd>
+                        </dl>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

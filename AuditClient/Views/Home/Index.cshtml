@@ -1,0 +1,162 @@
+﻿@using Microsoft.AspNetCore.Http;
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Auditing</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+
+            <a class="navbar-brand" asp-action="Index" asp-controller="Home"><i style='font-size:24px' class='fas'>&#xf1b2;</i> Auditing</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item active">
+                        @if (@Context.Session.GetString("token") == null)
+                        {
+                            <a class="nav-link text-light" asp-action="Index" asp-controller="Home">
+                                <i class="fas fa-home"></i>
+                                Home
+                                <span class="sr-only">(current)</span>
+                            </a>
+                        }
+                        else
+                        {
+                    <a class="nav-link text-light" asp-action="Index" asp-controller="AuditCheckList">
+                        <i class="fas fa-id-badge"></i> 
+                        ProjectDetails
+                        <span class="sr-only">(current)</span>
+                    </a>
+                        }
+
+                    </li>
+                    @if (@Context.Session.GetString("token") == null)
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Login" asp-action="Login"><i class="fas fa-sign-in-alt"></i> Login</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Login" asp-action="Logout"><i class="fas fa-sign-in-alt"></i> Logout</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <header>
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active" style="background-image: url('https://image.shutterstock.com/image-photo/administrator-business-man-financial-inspector-260nw-1081695596.jpg')">
+                    <div class="carousel-caption d-none d-md-block">
+                        <h3 class="display-4">Audit Management</h3>
+                        <p class="lead">Get Your Audit Response</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Page Content -->
+    <section class="py-5">
+        <div class="jumbotron jumbotron-fluid">
+            <div class="container">
+                <p class="lead">
+                    Management audit means the examination, review of various policies and action of the management on the basis of certain specified objectives.The management audit is conducted to critically evaluate the activities and efficiency of the management. It is an independent appraisal activity.
+                </p>
+            </div>
+        </div>
+        <div class="card-deck">
+            <div class="card" style="width: 20rem;">
+                <img class="card-img-top" src="https://www.m-files.com/blog/wp-content/uploads/2015/09/Taking-the-%E2%80%9CAAAAAHHH%E2%80%9D-Out-of-Audit-Management-with-EIM-Blog-Post-Hero-Image.jpg" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Understanding Audit Management</h5>
+                    <p class="card-text text-justify">
+                        Audit Management uses compliance and risk data to scope, plan, and prioritize audit engagements. The on-going review of policies and procedures, risks, and control breakdowns provide an opportunity for fixing issues before they become audit failures.
+                    </p>
+                    <a asp-controller="Home" asp-action="AuditManagement" class="btn btn-primary">Know More</a>
+                </div>
+            </div>
+            <div class="card" style="width: 20rem;">
+                <img class="card-img-top" src="https://www.360factors.com/blog/wp-content/uploads/2017/09/internal-audit-needs-with-less-resources1.jpg" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Managing an Audit</h5>
+                    <p class="card-text text-justify">
+                        To manage an audit team in a manner to achieve good results, it is important that audit managers have strong leadership skills, workers want to work for someone that has moved up the ranks which shows that the manager they work with has experience doing the job team members are doing.
+                        Auditing involves planning, method, facts, procedures, controls, risk, and management.
+                    </p>
+                    <a asp-controller="Home" asp-action="ManagingAudit" class="btn btn-primary">Know More</a>
+                </div>
+            </div>
+            <div class="card" style="width: 20rem;">
+                <img class="card-img-top" src="https://valuegrowthaudit.com/wp-content/uploads/2020/07/blog-17-7-scaled.jpg" alt="Card image cap">
+                <div class="card-body">
+                    <h5 class="card-title">Audit Directive and Regulation</h5>
+                    <p class="card-text text-justify">
+                        It includes the application of global accounting principles and global principles on auditing and requires an ongoing conversation with UK stakeholders and EU or international lawmakers on measures to encourage market firmness.
+                        Companies that are publicly traded may be required to submit an audit.
+                    </p>
+                    <a asp-controller="Home" asp-action="AuditDirective" class="btn btn-primary">Know More</a>
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="card-deck">
+            <div class="card border-light mb-3" style="max-width: 22rem;">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <i class="fas fa-bullseye"></i>
+                        Our Mission
+                    </h5>
+                    <p class="card-text">
+                        We Provide Proper Audit Solutions.
+                        Progress is impossible without change.
+                        Auditing understands change...
+                    </p>
+                </div>
+            </div>
+            <div class="card border-light mb-3" style="max-width: 22rem;">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <i class="fas fa-phone-alt"></i>
+                        Contact Us
+                    </h5>
+                    <p class="card-text">If you have a question or a comment, please call us on +91 80104 88888 or email us at contact@audit.com</p>
+                </div>
+            </div>
+
+            <div class="card border-light mb-3" style="max-width: 22rem;">
+                <div class="card-body">
+                    <h5 class="card-title">
+                        <i class="fas fa-lock"></i>
+                        Our Privacy Policy
+                    </h5>
+                    <p class="card-text">
+                        The objective of a privacy audit is to assess an organization's privacy protection posture against any legislative/regulatory requirements  with the organization's own privacy-related policies.
+
+                        To know more about our policy<a asp-controller="Home" asp-action="Privacy"> Click Here</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <script src='https://kit.fontawesome.com/a076d05399.js'></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

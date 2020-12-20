@@ -1,0 +1,63 @@
+﻿@model IList<AuditClient.Models.Input>
+@{ ViewData["Title"] = "GetAnswers"; }
+
+<style>
+    .required::after {
+        content: "*";
+        font-weight: bold;
+        color: red;
+    }
+</style>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9 col-md-9 col-lg-7 mx-auto">
+            <div class="card card-signin my-5">
+                <div class="card-body">
+                    <h6 class="text-danger text-center">@ViewBag.Error</h6>
+                    <h5 class="card-title text-center">Choose Your Choice</h5>
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    @using (Html.BeginForm("GetAnswers", "AuditCheckList"))
+                    {
+                        <table class="table">
+
+                            @for (int i = 0; i < Model.ToList().Count; i++)
+                            {
+                                <tr>
+                                    <td class="col-md-5">
+                                        <p>
+                                            <span style="display:inline-block" class="required">
+                                                @Model[i].Question
+                                            </span>
+
+
+                                            @Html.HiddenFor(m => Model[i].Question)
+                                        </p>
+
+                                    </td>
+
+                                    <td class="col-md-3">
+                                        <select asp-for="@Model[i].Answer" class="custom-select-sm">
+                                            <option value="">Choose option</option>
+                                            <option value="Yes">Yes</option>
+                                            <option value="No">No</option>
+                                        </select>
+                                    </td>
+
+                                    <td class="col-md-4">
+                                        <span asp-validation-for="@Model[i].Answer" class="text-danger" style="display:inline-block"></span>
+                                    </td>
+
+                                </tr>
+
+
+                            }
+                        </table>
+                        <button class="btn btn-lg btn-primary btn-block" type="submit">Submit</button>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
