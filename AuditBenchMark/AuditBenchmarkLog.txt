@@ -1,0 +1,898 @@
+FATAL 12:33:30 Application startup exception
+System.Exception: Could not resolve a service of type 'Microsoft.Extensions.Logging.LoggerFactory' for the parameter 'loggerFactory' of method 'Configure' on type 'AuditBenchmark.Startup'.
+ ---> System.InvalidOperationException: No service for type 'Microsoft.Extensions.Logging.LoggerFactory' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.<>c__DisplayClass4_0.<Build>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass13_0.<UseStartup>b__2(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Mvc.Filters.MiddlewareFilterBuilderStartupFilter.<>c__DisplayClass0_0.<Configure>g__MiddlewareFilterBuilder|0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISServerSetupFilter.<>c__DisplayClass2_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+FATAL 12:34:57 Application startup exception
+System.Exception: Could not resolve a service of type 'Microsoft.Extensions.Logging.LoggerFactory' for the parameter 'loggerFactory' of method 'Configure' on type 'AuditBenchmark.Startup'.
+ ---> System.InvalidOperationException: No service for type 'Microsoft.Extensions.Logging.LoggerFactory' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.<>c__DisplayClass4_0.<Build>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass13_0.<UseStartup>b__2(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Mvc.Filters.MiddlewareFilterBuilderStartupFilter.<>c__DisplayClass0_0.<Configure>g__MiddlewareFilterBuilder|0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISServerSetupFilter.<>c__DisplayClass2_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+INFO  12:45:31 Application started. Press Ctrl+C to shut down.
+INFO  12:45:31 Application started. Press Ctrl+C to shut down.
+INFO  12:45:31 Hosting environment: Development
+INFO  12:45:31 Hosting environment: Development
+INFO  12:45:31 Content root path: C:\Users\HARSHA\Source\Repos\MFPE\AuditBenchmark
+INFO  12:45:31 Content root path: C:\Users\HARSHA\Source\Repos\MFPE\AuditBenchmark
+INFO  12:45:56 Http get request initiated 
+INFO  12:46:15 Http get request initiated 
+INFO  04:29:54 Application started. Press Ctrl+C to shut down.
+INFO  04:29:54 Application started. Press Ctrl+C to shut down.
+INFO  04:29:54 Hosting environment: Development
+INFO  04:29:54 Hosting environment: Development
+INFO  04:29:54 Content root path: C:\Users\HARSHA\Source\Repos\MFPE\AuditBenchmark
+INFO  04:29:54 Content root path: C:\Users\HARSHA\Source\Repos\MFPE\AuditBenchmark
+INFO  04:30:09 Http get request initiated 
+INFO  10:56:51 Application started. Press Ctrl+C to shut down.
+INFO  10:56:51 Application started. Press Ctrl+C to shut down.
+INFO  10:56:51 Hosting environment: Development
+INFO  10:56:51 Hosting environment: Development
+INFO  10:56:51 Content root path: C:\Users\HARSHA\Source\Repos\MFPE\AuditBenchmark
+INFO  10:56:51 Content root path: C:\Users\HARSHA\Source\Repos\MFPE\AuditBenchmark
+INFO  10:57:07 Http get request initiated 
+INFO  06:03:24 Application started. Press Ctrl+C to shut down.
+INFO  06:03:24 Application started. Press Ctrl+C to shut down.
+INFO  06:03:24 Hosting environment: Development
+INFO  06:03:24 Hosting environment: Development
+INFO  06:03:24 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:03:24 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:04:51 Http get request initiated 
+INFO  06:04:51 Successfully got audit benchmark details
+INFO  06:05:14 Http get request initiated 
+INFO  06:05:14 Successfully got audit benchmark details
+INFO  06:16:13 Application started. Press Ctrl+C to shut down.
+INFO  06:16:13 Application started. Press Ctrl+C to shut down.
+INFO  06:16:13 Hosting environment: Development
+INFO  06:16:13 Hosting environment: Development
+INFO  06:16:13 Content root path: D:\AuditBenchMark
+INFO  06:16:13 Content root path: D:\AuditBenchMark
+INFO  06:34:54 Application started. Press Ctrl+C to shut down.
+INFO  06:34:54 Application started. Press Ctrl+C to shut down.
+INFO  06:34:54 Hosting environment: Development
+INFO  06:34:54 Hosting environment: Development
+INFO  06:34:54 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:34:54 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:39:10 Application started. Press Ctrl+C to shut down.
+INFO  06:39:10 Application started. Press Ctrl+C to shut down.
+INFO  06:39:10 Hosting environment: Development
+INFO  06:39:10 Hosting environment: Development
+INFO  06:39:10 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:39:10 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:42:36 Application started. Press Ctrl+C to shut down.
+INFO  06:42:36 Application started. Press Ctrl+C to shut down.
+INFO  06:42:36 Hosting environment: Development
+INFO  06:42:36 Hosting environment: Development
+INFO  06:42:36 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:42:36 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:45:04 Application started. Press Ctrl+C to shut down.
+INFO  06:45:04 Application started. Press Ctrl+C to shut down.
+INFO  06:45:04 Hosting environment: Development
+INFO  06:45:04 Hosting environment: Development
+INFO  06:45:04 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:45:04 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:47:26 Application started. Press Ctrl+C to shut down.
+INFO  06:47:26 Application started. Press Ctrl+C to shut down.
+INFO  06:47:26 Hosting environment: Development
+INFO  06:47:26 Hosting environment: Development
+INFO  06:47:26 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:47:26 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:48:11 Http get request initiated 
+INFO  06:48:11 Successfully got audit benchmark details
+INFO  06:50:22 Application started. Press Ctrl+C to shut down.
+INFO  06:50:22 Application started. Press Ctrl+C to shut down.
+INFO  06:50:22 Hosting environment: Development
+INFO  06:50:22 Hosting environment: Development
+INFO  06:50:22 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:50:22 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:50:52 Http get request initiated 
+INFO  06:50:52 Successfully got audit benchmark details
+INFO  06:52:08 Application started. Press Ctrl+C to shut down.
+INFO  06:52:08 Application started. Press Ctrl+C to shut down.
+INFO  06:52:08 Hosting environment: Development
+INFO  06:52:08 Hosting environment: Development
+INFO  06:52:08 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  06:52:08 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:00:03 Application started. Press Ctrl+C to shut down.
+INFO  07:00:03 Application started. Press Ctrl+C to shut down.
+INFO  07:00:03 Hosting environment: Development
+INFO  07:00:03 Hosting environment: Development
+INFO  07:00:03 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:00:03 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:01:41 Application started. Press Ctrl+C to shut down.
+INFO  07:01:41 Application started. Press Ctrl+C to shut down.
+INFO  07:01:41 Hosting environment: Development
+INFO  07:01:41 Hosting environment: Development
+INFO  07:01:41 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:01:41 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:04:37 Application started. Press Ctrl+C to shut down.
+INFO  07:04:37 Application started. Press Ctrl+C to shut down.
+INFO  07:04:37 Hosting environment: Development
+INFO  07:04:37 Hosting environment: Development
+INFO  07:04:37 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:04:37 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:09:40 Application started. Press Ctrl+C to shut down.
+INFO  07:09:40 Application started. Press Ctrl+C to shut down.
+INFO  07:09:40 Hosting environment: Development
+INFO  07:09:40 Hosting environment: Development
+INFO  07:09:40 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:09:40 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:17:59 Application started. Press Ctrl+C to shut down.
+INFO  07:17:59 Application started. Press Ctrl+C to shut down.
+INFO  07:17:59 Hosting environment: Development
+INFO  07:17:59 Hosting environment: Development
+INFO  07:17:59 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:17:59 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:19:54 Application started. Press Ctrl+C to shut down.
+INFO  07:19:54 Application started. Press Ctrl+C to shut down.
+INFO  07:19:54 Hosting environment: Development
+INFO  07:19:54 Hosting environment: Development
+INFO  07:19:54 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:19:54 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:20:25 Http get request initiated 
+INFO  07:20:25 Successfully got audit benchmark details
+INFO  07:21:46 Application started. Press Ctrl+C to shut down.
+INFO  07:21:46 Application started. Press Ctrl+C to shut down.
+INFO  07:21:46 Hosting environment: Development
+INFO  07:21:46 Hosting environment: Development
+INFO  07:21:46 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:21:46 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:22:58 Http get request initiated 
+INFO  07:22:58 Successfully got audit benchmark details
+INFO  07:57:44 Application started. Press Ctrl+C to shut down.
+INFO  07:57:44 Application started. Press Ctrl+C to shut down.
+INFO  07:57:44 Hosting environment: Development
+INFO  07:57:44 Hosting environment: Development
+INFO  07:57:44 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:57:44 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  07:58:15 Http get request initiated 
+INFO  07:58:15 Successfully got audit benchmark details
+INFO  08:01:49 Application started. Press Ctrl+C to shut down.
+INFO  08:01:49 Application started. Press Ctrl+C to shut down.
+INFO  08:01:49 Hosting environment: Development
+INFO  08:01:49 Hosting environment: Development
+INFO  08:01:49 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:01:49 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:03:55 Application started. Press Ctrl+C to shut down.
+INFO  08:03:55 Application started. Press Ctrl+C to shut down.
+INFO  08:03:55 Hosting environment: Development
+INFO  08:03:55 Hosting environment: Development
+INFO  08:03:55 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:03:55 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:04:19 Http get request initiated 
+INFO  08:04:19 Successfully got audit benchmark details
+INFO  08:05:23 Application started. Press Ctrl+C to shut down.
+INFO  08:05:23 Application started. Press Ctrl+C to shut down.
+INFO  08:05:23 Hosting environment: Development
+INFO  08:05:23 Hosting environment: Development
+INFO  08:05:23 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:05:23 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:05:49 Http get request initiated 
+INFO  08:05:49 Successfully got audit benchmark details
+INFO  08:08:48 Application started. Press Ctrl+C to shut down.
+INFO  08:08:48 Application started. Press Ctrl+C to shut down.
+INFO  08:08:48 Hosting environment: Development
+INFO  08:08:48 Hosting environment: Development
+INFO  08:08:48 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:08:48 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:09:13 Http get request initiated 
+INFO  08:09:13 Successfully got audit benchmark details
+INFO  08:10:04 Application started. Press Ctrl+C to shut down.
+INFO  08:10:04 Application started. Press Ctrl+C to shut down.
+INFO  08:10:04 Hosting environment: Development
+INFO  08:10:04 Hosting environment: Development
+INFO  08:10:04 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:10:04 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:10:29 Http get request initiated 
+INFO  08:10:29 Successfully got audit benchmark details
+INFO  08:11:02 Application started. Press Ctrl+C to shut down.
+INFO  08:11:02 Application started. Press Ctrl+C to shut down.
+INFO  08:11:02 Hosting environment: Development
+INFO  08:11:02 Hosting environment: Development
+INFO  08:11:02 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:11:02 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:11:40 Http get request initiated 
+INFO  08:11:40 Successfully got audit benchmark details
+INFO  08:12:48 Application started. Press Ctrl+C to shut down.
+INFO  08:12:48 Application started. Press Ctrl+C to shut down.
+INFO  08:12:48 Hosting environment: Development
+INFO  08:12:48 Hosting environment: Development
+INFO  08:12:48 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:12:48 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:13:12 Http get request initiated 
+INFO  08:13:12 Successfully got audit benchmark details
+INFO  08:14:03 Application started. Press Ctrl+C to shut down.
+INFO  08:14:03 Application started. Press Ctrl+C to shut down.
+INFO  08:14:03 Hosting environment: Development
+INFO  08:14:03 Hosting environment: Development
+INFO  08:14:03 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:14:03 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:14:30 Http get request initiated 
+INFO  08:14:30 Successfully got audit benchmark details
+INFO  08:15:28 Application started. Press Ctrl+C to shut down.
+INFO  08:15:28 Application started. Press Ctrl+C to shut down.
+INFO  08:15:28 Hosting environment: Development
+INFO  08:15:28 Hosting environment: Development
+INFO  08:15:28 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:15:28 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:16:06 Application started. Press Ctrl+C to shut down.
+INFO  08:16:06 Application started. Press Ctrl+C to shut down.
+INFO  08:16:06 Hosting environment: Development
+INFO  08:16:06 Hosting environment: Development
+INFO  08:16:06 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:16:06 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:16:29 Http get request initiated 
+INFO  08:16:29 Successfully got audit benchmark details
+INFO  08:17:35 Application started. Press Ctrl+C to shut down.
+INFO  08:17:35 Application started. Press Ctrl+C to shut down.
+INFO  08:17:35 Hosting environment: Development
+INFO  08:17:35 Hosting environment: Development
+INFO  08:17:35 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:17:35 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:18:06 Http get request initiated 
+INFO  08:18:06 Successfully got audit benchmark details
+INFO  08:19:53 Application started. Press Ctrl+C to shut down.
+INFO  08:19:53 Application started. Press Ctrl+C to shut down.
+INFO  08:19:53 Hosting environment: Development
+INFO  08:19:53 Hosting environment: Development
+INFO  08:19:53 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:19:53 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:20:18 Http get request initiated 
+INFO  08:20:18 Successfully got audit benchmark details
+INFO  08:21:57 Application started. Press Ctrl+C to shut down.
+INFO  08:21:57 Application started. Press Ctrl+C to shut down.
+INFO  08:21:57 Hosting environment: Development
+INFO  08:21:57 Hosting environment: Development
+INFO  08:21:57 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:21:57 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:22:23 Http get request initiated 
+INFO  08:22:23 Successfully got audit benchmark details
+INFO  08:26:31 Application started. Press Ctrl+C to shut down.
+INFO  08:26:31 Application started. Press Ctrl+C to shut down.
+INFO  08:26:31 Hosting environment: Development
+INFO  08:26:31 Hosting environment: Development
+INFO  08:26:31 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:26:31 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:26:58 Http get request initiated 
+INFO  08:26:58 Successfully got audit benchmark details
+INFO  08:30:05 Application started. Press Ctrl+C to shut down.
+INFO  08:30:05 Application started. Press Ctrl+C to shut down.
+INFO  08:30:06 Hosting environment: Development
+INFO  08:30:06 Hosting environment: Development
+INFO  08:30:06 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:30:06 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  08:30:31 Http get request initiated 
+INFO  08:30:31 Successfully got audit benchmark details
+INFO  08:30:55 Http get request initiated 
+INFO  08:30:55 Successfully got audit benchmark details
+INFO  09:07:59 Application started. Press Ctrl+C to shut down.
+INFO  09:07:59 Application started. Press Ctrl+C to shut down.
+INFO  09:07:59 Hosting environment: Development
+INFO  09:07:59 Hosting environment: Development
+INFO  09:07:59 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  09:07:59 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  09:08:30 Http get request initiated 
+INFO  09:08:30 Successfully got audit benchmark details
+INFO  10:09:48 Application started. Press Ctrl+C to shut down.
+INFO  10:09:48 Application started. Press Ctrl+C to shut down.
+INFO  10:09:48 Hosting environment: Development
+INFO  10:09:48 Hosting environment: Development
+INFO  10:09:48 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:09:48 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:19:47 Application started. Press Ctrl+C to shut down.
+INFO  10:19:47 Application started. Press Ctrl+C to shut down.
+INFO  10:19:47 Hosting environment: Development
+INFO  10:19:47 Hosting environment: Development
+INFO  10:19:47 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:19:47 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:27:45 Application started. Press Ctrl+C to shut down.
+INFO  10:27:45 Application started. Press Ctrl+C to shut down.
+INFO  10:27:45 Hosting environment: Development
+INFO  10:27:45 Hosting environment: Development
+INFO  10:27:45 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:27:45 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:28:38 Application started. Press Ctrl+C to shut down.
+INFO  10:28:38 Application started. Press Ctrl+C to shut down.
+INFO  10:28:38 Hosting environment: Development
+INFO  10:28:38 Hosting environment: Development
+INFO  10:28:38 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:28:38 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:29:30 Http get request initiated 
+INFO  10:29:30 Successfully got audit benchmark details
+INFO  10:31:41 Application started. Press Ctrl+C to shut down.
+INFO  10:31:41 Application started. Press Ctrl+C to shut down.
+INFO  10:31:41 Hosting environment: Development
+INFO  10:31:41 Hosting environment: Development
+INFO  10:31:41 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:31:41 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:40:15 Application started. Press Ctrl+C to shut down.
+INFO  10:40:15 Application started. Press Ctrl+C to shut down.
+INFO  10:40:15 Hosting environment: Development
+INFO  10:40:15 Hosting environment: Development
+INFO  10:40:15 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:40:15 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:44:18 Application started. Press Ctrl+C to shut down.
+INFO  10:44:18 Application started. Press Ctrl+C to shut down.
+INFO  10:44:18 Hosting environment: Development
+INFO  10:44:18 Hosting environment: Development
+INFO  10:44:18 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:44:18 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:44:52 Http get request initiated 
+INFO  10:44:52 Successfully got audit benchmark details
+INFO  11:36:17 Application started. Press Ctrl+C to shut down.
+INFO  11:36:17 Application started. Press Ctrl+C to shut down.
+INFO  11:36:17 Hosting environment: Development
+INFO  11:36:17 Hosting environment: Development
+INFO  11:36:17 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  11:36:17 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  11:37:11 Application started. Press Ctrl+C to shut down.
+INFO  11:37:11 Application started. Press Ctrl+C to shut down.
+INFO  11:37:11 Hosting environment: Development
+INFO  11:37:11 Hosting environment: Development
+INFO  11:37:11 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  11:37:11 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  11:38:02 Http get request initiated 
+INFO  11:38:02 Successfully got audit benchmark details
+INFO  02:49:44 Application started. Press Ctrl+C to shut down.
+INFO  02:49:44 Application started. Press Ctrl+C to shut down.
+INFO  02:49:44 Hosting environment: Development
+INFO  02:49:44 Hosting environment: Development
+INFO  02:49:44 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  02:49:44 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  02:58:27 Application started. Press Ctrl+C to shut down.
+INFO  02:58:27 Application started. Press Ctrl+C to shut down.
+INFO  02:58:27 Hosting environment: Development
+INFO  02:58:27 Hosting environment: Development
+INFO  02:58:27 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  02:58:27 Content root path: D:\AuditManagement-main\AuditBenchMark
+INFO  10:16:22 Application is shutting down...
+INFO  10:16:22 Application started. Press Ctrl+C to shut down.
+INFO  10:16:22 Application is shutting down...
+INFO  10:16:22 Application started. Press Ctrl+C to shut down.
+INFO  10:16:22 Hosting environment: Development
+INFO  10:16:22 Hosting environment: Development
+INFO  10:16:22 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:16:22 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:17:26 Application started. Press Ctrl+C to shut down.
+INFO  10:17:26 Application started. Press Ctrl+C to shut down.
+INFO  10:17:26 Hosting environment: Development
+INFO  10:17:26 Hosting environment: Development
+INFO  10:17:26 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:17:26 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:21:36 Application started. Press Ctrl+C to shut down.
+INFO  10:21:36 Application started. Press Ctrl+C to shut down.
+INFO  10:21:36 Hosting environment: Development
+INFO  10:21:36 Hosting environment: Development
+INFO  10:21:36 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:21:36 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:24:17 Application started. Press Ctrl+C to shut down.
+INFO  10:24:17 Application started. Press Ctrl+C to shut down.
+INFO  10:24:17 Hosting environment: Development
+INFO  10:24:17 Hosting environment: Development
+INFO  10:24:17 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:24:17 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:25:30 Http get request initiated 
+INFO  10:25:30 Provider layer has been called
+INFO  10:25:30 Benchmark Repository has been requested
+INFO  10:25:30 Successfully got audit benchmark details
+INFO  10:52:49 Application started. Press Ctrl+C to shut down.
+INFO  10:52:49 Application started. Press Ctrl+C to shut down.
+INFO  10:52:49 Hosting environment: Development
+INFO  10:52:49 Hosting environment: Development
+INFO  10:52:49 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:52:49 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:54:33 Application started. Press Ctrl+C to shut down.
+INFO  10:54:33 Application started. Press Ctrl+C to shut down.
+INFO  10:54:33 Hosting environment: Development
+INFO  10:54:33 Hosting environment: Development
+INFO  10:54:34 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:54:34 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:55:53 Application started. Press Ctrl+C to shut down.
+INFO  10:55:53 Application started. Press Ctrl+C to shut down.
+INFO  10:55:53 Hosting environment: Development
+INFO  10:55:53 Hosting environment: Development
+INFO  10:55:53 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:55:53 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:57:29 Application started. Press Ctrl+C to shut down.
+INFO  10:57:29 Application started. Press Ctrl+C to shut down.
+INFO  10:57:29 Hosting environment: Development
+INFO  10:57:29 Hosting environment: Development
+INFO  10:57:29 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:57:29 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:58:33 Http get request initiated 
+INFO  10:58:33 Provider layer has been called
+INFO  10:58:33 Benchmark Repository has been requested
+INFO  10:58:33 Successfully got audit benchmark details
+INFO  11:29:25 Application started. Press Ctrl+C to shut down.
+INFO  11:29:25 Application started. Press Ctrl+C to shut down.
+INFO  11:29:25 Hosting environment: Development
+INFO  11:29:25 Hosting environment: Development
+INFO  11:29:25 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  11:29:25 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  11:30:23 Http get request initiated 
+INFO  11:30:23 Provider layer has been called
+INFO  11:30:23 Benchmark Repository has been requested
+INFO  11:30:23 Successfully got audit benchmark details
+INFO  11:31:03 Http get request initiated 
+INFO  11:31:03 Provider layer has been called
+INFO  11:31:03 Benchmark Repository has been requested
+INFO  11:31:03 Successfully got audit benchmark details
+INFO  11:32:03 Http get request initiated 
+INFO  11:32:03 Provider layer has been called
+INFO  11:32:03 Benchmark Repository has been requested
+INFO  11:32:03 Successfully got audit benchmark details
+INFO  11:32:31 Http get request initiated 
+INFO  11:32:31 Provider layer has been called
+INFO  11:32:31 Benchmark Repository has been requested
+INFO  11:32:31 Successfully got audit benchmark details
+INFO  11:35:54 Application started. Press Ctrl+C to shut down.
+INFO  11:35:54 Application started. Press Ctrl+C to shut down.
+INFO  11:35:54 Hosting environment: Development
+INFO  11:35:54 Hosting environment: Development
+INFO  11:35:54 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  11:35:54 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  11:41:31 Application started. Press Ctrl+C to shut down.
+INFO  11:41:31 Application started. Press Ctrl+C to shut down.
+INFO  11:41:31 Hosting environment: Development
+INFO  11:41:31 Hosting environment: Development
+INFO  11:41:31 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  11:41:31 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  11:42:19 Application started. Press Ctrl+C to shut down.
+INFO  11:42:19 Application started. Press Ctrl+C to shut down.
+INFO  11:42:19 Hosting environment: Development
+INFO  11:42:19 Hosting environment: Development
+INFO  11:42:20 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  11:42:20 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  11:43:44 Application started. Press Ctrl+C to shut down.
+INFO  11:43:44 Application started. Press Ctrl+C to shut down.
+INFO  11:43:44 Hosting environment: Development
+INFO  11:43:44 Hosting environment: Development
+INFO  11:43:44 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  11:43:44 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  12:15:44 Application started. Press Ctrl+C to shut down.
+INFO  12:15:44 Application started. Press Ctrl+C to shut down.
+INFO  12:15:44 Hosting environment: Development
+INFO  12:15:44 Hosting environment: Development
+INFO  12:15:44 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  12:15:44 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  12:16:40 Http get request initiated 
+INFO  12:16:40 Provider layer has been called
+INFO  12:16:40 Benchmark Repository has been requested
+INFO  12:16:40 Successfully got audit benchmark details
+INFO  12:18:56 Application started. Press Ctrl+C to shut down.
+INFO  12:18:56 Application started. Press Ctrl+C to shut down.
+INFO  12:18:56 Hosting environment: Development
+INFO  12:18:56 Hosting environment: Development
+INFO  12:18:56 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  12:18:56 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  12:20:04 Http get request initiated 
+INFO  12:20:04 Provider layer has been called
+INFO  12:20:04 Benchmark Repository has been requested
+INFO  12:20:04 Successfully got audit benchmark details
+INFO  01:22:34 Application started. Press Ctrl+C to shut down.
+INFO  01:22:34 Application started. Press Ctrl+C to shut down.
+INFO  01:22:34 Hosting environment: Development
+INFO  01:22:34 Hosting environment: Development
+INFO  01:22:34 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:22:34 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:28:41 Application started. Press Ctrl+C to shut down.
+INFO  01:28:41 Application started. Press Ctrl+C to shut down.
+INFO  01:28:41 Hosting environment: Development
+INFO  01:28:41 Hosting environment: Development
+INFO  01:28:42 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:28:42 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:30:56 Http get request initiated 
+INFO  01:30:56 Provider layer has been called
+INFO  01:30:56 Benchmark Repository has been requested
+INFO  01:30:56 Successfully got audit benchmark details of 2 types
+INFO  01:45:00 Application started. Press Ctrl+C to shut down.
+INFO  01:45:00 Application started. Press Ctrl+C to shut down.
+INFO  01:45:00 Hosting environment: Development
+INFO  01:45:00 Hosting environment: Development
+INFO  01:45:00 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:45:00 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:46:16 Http get request initiated 
+INFO  01:46:16 Provider layer has been called
+INFO  01:46:16 Benchmark Repository has been requested
+INFO  01:46:16 Successfully got audit benchmark details of 2 types
+INFO  01:47:35 Application started. Press Ctrl+C to shut down.
+INFO  01:47:35 Application started. Press Ctrl+C to shut down.
+INFO  01:47:35 Hosting environment: Development
+INFO  01:47:35 Hosting environment: Development
+INFO  01:47:36 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:47:36 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:48:33 Http get request initiated 
+INFO  01:48:33 Provider layer has been called
+INFO  01:48:33 Benchmark Repository has been requested
+INFO  01:48:33 Successfully got audit benchmark details of 2 types
+INFO  01:49:10 Http get request initiated 
+INFO  01:49:10 Provider layer has been called
+INFO  01:49:10 Benchmark Repository has been requested
+INFO  01:49:10 Successfully got audit benchmark details of 2 types
+INFO  01:52:39 Application started. Press Ctrl+C to shut down.
+INFO  01:52:39 Application started. Press Ctrl+C to shut down.
+INFO  01:52:39 Hosting environment: Development
+INFO  01:52:39 Hosting environment: Development
+INFO  01:52:39 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:52:39 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:54:15 Http get request initiated 
+INFO  01:54:15 Provider layer has been called
+INFO  01:54:15 Benchmark Repository has been requested
+INFO  01:54:15 Successfully got audit benchmark details of 2 types
+INFO  01:56:06 Application started. Press Ctrl+C to shut down.
+INFO  01:56:06 Application started. Press Ctrl+C to shut down.
+INFO  01:56:06 Hosting environment: Development
+INFO  01:56:06 Hosting environment: Development
+INFO  01:56:06 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:56:06 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:57:23 Http get request initiated 
+INFO  01:57:23 Provider layer has been called
+INFO  01:57:23 Benchmark Repository has been requested
+INFO  01:57:23 Successfully got audit benchmark details of 2 types
+INFO  03:36:27 Application started. Press Ctrl+C to shut down.
+INFO  03:36:27 Application started. Press Ctrl+C to shut down.
+INFO  03:36:27 Hosting environment: Development
+INFO  03:36:27 Hosting environment: Development
+INFO  03:36:27 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  03:36:27 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  03:37:56 Http get request initiated 
+INFO  03:37:56 Provider layer has been called
+INFO  03:37:56 Benchmark Repository has been requested
+INFO  03:37:56 Successfully got audit benchmark details of 2 types
+INFO  03:38:09 Http get request initiated 
+INFO  03:38:09 Provider layer has been called
+INFO  03:38:09 Benchmark Repository has been requested
+INFO  03:38:09 Successfully got audit benchmark details of 2 types
+INFO  03:38:16 Http get request initiated 
+INFO  03:38:16 Provider layer has been called
+INFO  03:38:16 Benchmark Repository has been requested
+INFO  03:38:16 Successfully got audit benchmark details of 2 types
+INFO  03:51:21 Application started. Press Ctrl+C to shut down.
+INFO  03:51:21 Application started. Press Ctrl+C to shut down.
+INFO  03:51:21 Hosting environment: Development
+INFO  03:51:21 Hosting environment: Development
+INFO  03:51:21 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  03:51:21 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  03:52:39 Http get request initiated 
+INFO  03:52:39 Provider layer has been called
+INFO  03:52:39 Benchmark Repository has been requested
+INFO  03:52:39 Successfully got audit benchmark details of 2 types
+INFO  04:44:16 Application started. Press Ctrl+C to shut down.
+INFO  04:44:16 Application started. Press Ctrl+C to shut down.
+INFO  04:44:16 Hosting environment: Development
+INFO  04:44:16 Hosting environment: Development
+INFO  04:44:16 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  04:44:16 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  04:46:46 Application started. Press Ctrl+C to shut down.
+INFO  04:46:46 Application started. Press Ctrl+C to shut down.
+INFO  04:46:46 Hosting environment: Development
+INFO  04:46:46 Hosting environment: Development
+INFO  04:46:46 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  04:46:46 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  04:49:57 Application started. Press Ctrl+C to shut down.
+INFO  04:49:57 Application started. Press Ctrl+C to shut down.
+INFO  04:49:57 Hosting environment: Development
+INFO  04:49:57 Hosting environment: Development
+INFO  04:49:57 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  04:49:57 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  04:51:52 Application started. Press Ctrl+C to shut down.
+INFO  04:51:52 Application started. Press Ctrl+C to shut down.
+INFO  04:51:52 Hosting environment: Development
+INFO  04:51:52 Hosting environment: Development
+INFO  04:51:52 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  04:51:52 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  04:57:47 Application started. Press Ctrl+C to shut down.
+INFO  04:57:47 Application started. Press Ctrl+C to shut down.
+INFO  04:57:47 Hosting environment: Development
+INFO  04:57:47 Hosting environment: Development
+INFO  04:57:47 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  04:57:47 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  04:58:40 Application started. Press Ctrl+C to shut down.
+INFO  04:58:40 Application started. Press Ctrl+C to shut down.
+INFO  04:58:40 Hosting environment: Development
+INFO  04:58:40 Hosting environment: Development
+INFO  04:58:40 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  04:58:40 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  05:00:04 Http get request initiated 
+INFO  05:00:04 Provider layer has been called
+INFO  05:00:04 Benchmark Repository has been requested
+INFO  05:00:04 Successfully got audit benchmark details of 2 types
+INFO  06:00:47 Application started. Press Ctrl+C to shut down.
+INFO  06:00:47 Application started. Press Ctrl+C to shut down.
+INFO  06:00:47 Hosting environment: Development
+INFO  06:00:47 Hosting environment: Development
+INFO  06:00:48 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  06:00:48 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  06:03:22 Http get request initiated 
+INFO  06:03:22 Provider layer has been called
+INFO  06:03:22 Benchmark Repository has been requested
+INFO  06:03:22 Successfully got audit benchmark details of 2 types
+INFO  06:04:02 Http get request initiated 
+INFO  06:04:02 Provider layer has been called
+INFO  06:04:02 Benchmark Repository has been requested
+INFO  06:04:02 Successfully got audit benchmark details of 2 types
+INFO  06:07:27 Application started. Press Ctrl+C to shut down.
+INFO  06:07:27 Application started. Press Ctrl+C to shut down.
+INFO  06:07:28 Hosting environment: Development
+INFO  06:07:28 Hosting environment: Development
+INFO  06:07:28 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  06:07:28 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  06:08:43 Http get request initiated 
+INFO  06:08:43 Provider layer has been called
+INFO  06:08:43 Benchmark Repository has been requested
+INFO  06:08:43 Successfully got audit benchmark details of 2 types
+INFO  06:12:11 Application started. Press Ctrl+C to shut down.
+INFO  06:12:11 Application started. Press Ctrl+C to shut down.
+INFO  06:12:11 Hosting environment: Development
+INFO  06:12:11 Hosting environment: Development
+INFO  06:12:11 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  06:12:11 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:13:19 Application started. Press Ctrl+C to shut down.
+INFO  07:13:19 Application started. Press Ctrl+C to shut down.
+INFO  07:13:19 Hosting environment: Development
+INFO  07:13:19 Hosting environment: Development
+INFO  07:13:19 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:13:19 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:14:30 Http get request initiated 
+INFO  07:14:30 Provider layer has been called
+INFO  07:14:30 Benchmark Repository has been requested
+INFO  07:14:30 Successfully got audit benchmark details of 2 types
+INFO  07:31:34 Application started. Press Ctrl+C to shut down.
+INFO  07:31:34 Application started. Press Ctrl+C to shut down.
+INFO  07:31:34 Hosting environment: Development
+INFO  07:31:34 Hosting environment: Development
+INFO  07:31:34 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:31:34 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:33:38 Http get request initiated 
+INFO  07:33:38 Provider layer has been called
+INFO  07:33:38 Benchmark Repository has been requested
+INFO  07:33:38 Successfully got audit benchmark details of 2 types
+INFO  07:41:54 Application started. Press Ctrl+C to shut down.
+INFO  07:41:54 Application started. Press Ctrl+C to shut down.
+INFO  07:41:54 Hosting environment: Development
+INFO  07:41:54 Hosting environment: Development
+INFO  07:41:54 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:41:54 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  09:27:34 Application started. Press Ctrl+C to shut down.
+INFO  09:27:34 Application started. Press Ctrl+C to shut down.
+INFO  09:27:34 Hosting environment: Development
+INFO  09:27:34 Hosting environment: Development
+INFO  09:27:34 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  09:27:34 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  09:30:11 Http get request initiated 
+INFO  09:30:11 Provider layer has been called
+INFO  09:30:11 Benchmark Repository has been requested
+INFO  09:30:11 Successfully got audit benchmark details of 2 types
+INFO  10:41:08 Application started. Press Ctrl+C to shut down.
+INFO  10:41:08 Application started. Press Ctrl+C to shut down.
+INFO  10:41:08 Hosting environment: Development
+INFO  10:41:08 Hosting environment: Development
+INFO  10:41:09 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:41:09 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  10:43:27 Http get request initiated 
+INFO  10:43:27 Provider layer has been called
+INFO  10:43:27 Benchmark Repository has been requested
+INFO  10:43:27 Successfully got audit benchmark details of 2 types
+INFO  11:43:36 Application started. Press Ctrl+C to shut down.
+INFO  11:43:36 Application started. Press Ctrl+C to shut down.
+INFO  11:43:36 Hosting environment: Development
+INFO  11:43:36 Hosting environment: Development
+INFO  11:43:36 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  11:43:36 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  11:45:01 Http get request initiated 
+INFO  11:45:01 Provider layer has been called
+INFO  11:45:01 Benchmark Repository has been requested
+INFO  11:45:01 Successfully got audit benchmark details of 2 types
+INFO  01:34:59 Application started. Press Ctrl+C to shut down.
+INFO  01:35:00 Application started. Press Ctrl+C to shut down.
+INFO  01:35:00 Hosting environment: Development
+INFO  01:35:00 Hosting environment: Development
+INFO  01:35:00 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:35:00 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:36:23 Http get request initiated 
+INFO  01:36:23 Provider layer has been called
+INFO  01:36:23 Benchmark Repository has been requested
+INFO  01:36:23 Successfully got audit benchmark details of 2 types
+INFO  02:18:13 Application started. Press Ctrl+C to shut down.
+INFO  02:18:13 Application started. Press Ctrl+C to shut down.
+INFO  02:18:13 Hosting environment: Development
+INFO  02:18:13 Hosting environment: Development
+INFO  02:18:13 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  02:18:13 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  02:25:14 Http get request initiated 
+INFO  02:25:14 Provider layer has been called
+INFO  02:25:14 Benchmark Repository has been requested
+INFO  02:25:14 Successfully got audit benchmark details of 2 types
+INFO  07:53:05 Application started. Press Ctrl+C to shut down.
+INFO  07:53:05 Application started. Press Ctrl+C to shut down.
+INFO  07:53:05 Hosting environment: Development
+INFO  07:53:05 Hosting environment: Development
+INFO  07:53:05 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:53:05 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:53:13 Http get request initiated 
+INFO  07:53:13 Provider layer has been called
+INFO  07:53:13 Benchmark Repository has been requested
+INFO  07:53:13 Successfully got audit benchmark details of 2 types
+INFO  12:01:09 Application started. Press Ctrl+C to shut down.
+INFO  12:01:09 Application started. Press Ctrl+C to shut down.
+INFO  12:01:09 Hosting environment: Development
+INFO  12:01:09 Hosting environment: Development
+INFO  12:01:09 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  12:01:09 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  12:54:21 Application started. Press Ctrl+C to shut down.
+INFO  12:54:21 Application started. Press Ctrl+C to shut down.
+INFO  12:54:22 Hosting environment: Development
+INFO  12:54:22 Hosting environment: Development
+INFO  12:54:22 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  12:54:22 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:44:06 Application started. Press Ctrl+C to shut down.
+INFO  01:44:06 Application started. Press Ctrl+C to shut down.
+INFO  01:44:07 Hosting environment: Development
+INFO  01:44:07 Hosting environment: Development
+INFO  01:44:08 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:44:08 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:46:54 Application started. Press Ctrl+C to shut down.
+INFO  01:46:54 Application started. Press Ctrl+C to shut down.
+INFO  01:46:54 Hosting environment: Development
+INFO  01:46:54 Hosting environment: Development
+INFO  01:46:54 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:46:54 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:50:38 Application started. Press Ctrl+C to shut down.
+INFO  01:50:38 Application started. Press Ctrl+C to shut down.
+INFO  01:50:38 Hosting environment: Development
+INFO  01:50:38 Hosting environment: Development
+INFO  01:50:38 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:50:38 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:54:09 Application started. Press Ctrl+C to shut down.
+INFO  01:54:09 Application started. Press Ctrl+C to shut down.
+INFO  01:54:09 Hosting environment: Development
+INFO  01:54:09 Hosting environment: Development
+INFO  01:54:09 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:54:09 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:57:11 Application started. Press Ctrl+C to shut down.
+INFO  01:57:11 Application started. Press Ctrl+C to shut down.
+INFO  01:57:12 Hosting environment: Development
+INFO  01:57:12 Hosting environment: Development
+INFO  01:57:12 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  01:57:12 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  02:23:30 Application started. Press Ctrl+C to shut down.
+INFO  02:23:30 Application started. Press Ctrl+C to shut down.
+INFO  02:23:30 Hosting environment: Development
+INFO  02:23:30 Hosting environment: Development
+INFO  02:23:30 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  02:23:30 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  02:25:19 Application started. Press Ctrl+C to shut down.
+INFO  02:25:19 Application started. Press Ctrl+C to shut down.
+INFO  02:25:19 Hosting environment: Development
+INFO  02:25:19 Hosting environment: Development
+INFO  02:25:19 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  02:25:19 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  02:26:29 Http get request initiated 
+INFO  02:26:29 Provider layer has been called
+INFO  02:26:29 Benchmark Repository has been requested
+INFO  02:26:29 Successfully got audit benchmark details of 2 types
+INFO  06:27:23 Application started. Press Ctrl+C to shut down.
+INFO  06:27:23 Application started. Press Ctrl+C to shut down.
+INFO  06:27:23 Hosting environment: Development
+INFO  06:27:23 Hosting environment: Development
+INFO  06:27:23 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  06:27:23 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  06:28:26 Http get request initiated 
+INFO  06:28:26 Provider layer has been called
+INFO  06:28:26 Benchmark Repository has been requested
+INFO  06:28:26 Successfully got audit benchmark details of 2 types
+INFO  06:50:10 Application started. Press Ctrl+C to shut down.
+INFO  06:50:10 Application started. Press Ctrl+C to shut down.
+INFO  06:50:10 Hosting environment: Development
+INFO  06:50:10 Hosting environment: Development
+INFO  06:50:10 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  06:50:10 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  06:54:27 Application started. Press Ctrl+C to shut down.
+INFO  06:54:27 Application started. Press Ctrl+C to shut down.
+INFO  06:54:27 Hosting environment: Development
+INFO  06:54:27 Hosting environment: Development
+INFO  06:54:27 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  06:54:27 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  06:57:33 Http get request initiated 
+INFO  06:57:33 Provider layer has been called
+INFO  06:57:33 Benchmark Repository has been requested
+INFO  06:57:33 Successfully got audit benchmark details of 2 types
+INFO  07:42:38 Application started. Press Ctrl+C to shut down.
+INFO  07:42:38 Application started. Press Ctrl+C to shut down.
+INFO  07:42:38 Hosting environment: Development
+INFO  07:42:38 Hosting environment: Development
+INFO  07:42:38 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:42:38 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:43:53 Application started. Press Ctrl+C to shut down.
+INFO  07:43:53 Application started. Press Ctrl+C to shut down.
+INFO  07:43:53 Hosting environment: Development
+INFO  07:43:53 Hosting environment: Development
+INFO  07:43:53 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:43:53 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:44:44 Application started. Press Ctrl+C to shut down.
+INFO  07:44:44 Application started. Press Ctrl+C to shut down.
+INFO  07:44:44 Hosting environment: Development
+INFO  07:44:44 Hosting environment: Development
+INFO  07:44:44 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:44:44 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  07:46:07 Http get request initiated 
+INFO  07:46:07 Provider layer has been called
+INFO  07:46:07 Benchmark Repository has been requested
+INFO  07:46:07 Successfully got audit benchmark details of 2 types
+INFO  08:00:17 Application started. Press Ctrl+C to shut down.
+INFO  08:00:17 Application started. Press Ctrl+C to shut down.
+INFO  08:00:17 Hosting environment: Development
+INFO  08:00:17 Hosting environment: Development
+INFO  08:00:17 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  08:00:17 Content root path: G:\Final\Audit-Management\AuditBenchMark
+ERROR 08:01:03 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 08:01:03 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:03:13 Application started. Press Ctrl+C to shut down.
+INFO  08:03:13 Application started. Press Ctrl+C to shut down.
+INFO  08:03:13 Hosting environment: Development
+INFO  08:03:13 Hosting environment: Development
+INFO  08:03:13 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  08:03:13 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  08:03:20 Http get request initiated 
+INFO  08:03:20 Provider layer has been called
+INFO  08:03:20 Benchmark Repository has been requested
+INFO  08:03:20 Successfully got audit benchmark details of 2 types
+INFO  08:03:51 Http get request initiated 
+INFO  08:03:51 Provider layer has been called
+INFO  08:03:51 Benchmark Repository has been requested
+INFO  08:03:51 Successfully got audit benchmark details of 2 types
+INFO  08:04:05 Http get request initiated 
+INFO  08:04:05 Provider layer has been called
+INFO  08:04:05 Benchmark Repository has been requested
+INFO  08:04:05 Successfully got audit benchmark details of 2 types
+INFO  08:05:15 Http get request initiated 
+INFO  08:05:15 Provider layer has been called
+INFO  08:05:15 Benchmark Repository has been requested
+INFO  08:05:15 Successfully got audit benchmark details of 2 types
+INFO  08:12:37 Application started. Press Ctrl+C to shut down.
+INFO  08:12:37 Application started. Press Ctrl+C to shut down.
+INFO  08:12:37 Hosting environment: Development
+INFO  08:12:37 Hosting environment: Development
+INFO  08:12:37 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  08:12:37 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  08:14:21 Http get request initiated 
+INFO  08:14:21 Provider layer has been called
+INFO  08:14:21 Benchmark Repository has been requested
+INFO  08:14:21 Successfully got audit benchmark details of 2 types
+INFO  09:00:53 Application started. Press Ctrl+C to shut down.
+INFO  09:00:53 Application started. Press Ctrl+C to shut down.
+INFO  09:00:53 Hosting environment: Development
+INFO  09:00:53 Hosting environment: Development
+INFO  09:00:54 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  09:00:54 Content root path: G:\Final\Audit-Management\AuditBenchMark
+INFO  09:01:01 Http get request initiated 
+INFO  09:01:01 Provider layer has been called
+INFO  09:01:01 Benchmark Repository has been requested
+INFO  09:01:01 Successfully got audit benchmark details of 2 types
