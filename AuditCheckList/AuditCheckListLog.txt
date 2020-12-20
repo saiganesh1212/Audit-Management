@@ -1,0 +1,714 @@
+2020-12-09 18:53:45,794 Application started. Press Ctrl+C to shut down.
+2020-12-09 18:53:45,803 Hosting environment: Development
+2020-12-09 18:53:45,807 Content root path: D:\AuditCheckList
+2020-12-09 18:54:01,437 Http get request initiated with Internal
+2020-12-09 18:56:57,140 Application started. Press Ctrl+C to shut down.
+2020-12-09 18:56:57,150 Hosting environment: Development
+2020-12-09 18:56:57,152 Content root path: D:\AuditCheckList
+2020-12-09 18:57:54,536 Application started. Press Ctrl+C to shut down.
+2020-12-09 18:57:54,545 Hosting environment: Development
+2020-12-09 18:57:54,547 Content root path: D:\AuditCheckList
+2020-12-09 18:58:07,864 Http get request initiated with SOX
+2020-12-09 18:58:27,684 Http get request initiated with Internal
+2020-12-09 18:58:43,543 Http get request initiated with "Internal"
+2020-12-10 09:23:40,195 Application started. Press Ctrl+C to shut down.
+2020-12-10 09:23:40,226 Hosting environment: Development
+2020-12-10 09:23:40,229 Content root path: G:\AuditCheckList
+2020-12-10 09:24:31,517 Http get request initiated with SOX
+2020-12-10 09:24:39,570 Http get request initiated with Internal
+2020-12-10 09:24:44,831 Http get request initiated with Interna
+2020-12-10 09:24:50,938 Http get request initiated with Intern
+2020-12-10 09:26:19,521 Http get request initiated with Intern
+2020-12-10 09:26:24,940 Http get request initiated with Intern
+2020-12-10 09:54:10,067 Application started. Press Ctrl+C to shut down.
+2020-12-10 09:54:10,086 Hosting environment: Development
+2020-12-10 09:54:10,090 Content root path: G:\AuditCheckList
+2020-12-10 12:24:09,205 Application started. Press Ctrl+C to shut down.
+2020-12-10 12:24:09,248 Hosting environment: Development
+2020-12-10 12:24:09,306 Content root path: G:\AuditCheckList
+2020-12-10 12:24:53,818 Http get request initiated with Internal
+2020-12-10 12:25:00,170 Http get request initiated with Int
+2020-12-10 12:28:21,797 Application started. Press Ctrl+C to shut down.
+2020-12-10 12:28:21,826 Hosting environment: Development
+2020-12-10 12:28:21,830 Content root path: G:\AuditCheckList
+2020-12-10 12:28:59,969 Http get request initiated with 
+2020-12-10 12:30:37,732 Application started. Press Ctrl+C to shut down.
+2020-12-10 12:30:37,770 Hosting environment: Development
+2020-12-10 12:30:37,780 Content root path: G:\AuditCheckList
+2020-12-10 12:31:04,216 Http get request initiated with 
+2020-12-10 12:35:35,382 Application started. Press Ctrl+C to shut down.
+2020-12-10 12:35:35,499 Hosting environment: Development
+2020-12-10 12:35:35,546 Content root path: G:\AuditCheckList
+2020-12-10 13:16:02,331 Application started. Press Ctrl+C to shut down.
+2020-12-10 13:16:02,425 Hosting environment: Development
+2020-12-10 13:16:02,440 Content root path: G:\AuditCheckList
+2020-12-10 13:18:17,272 Application started. Press Ctrl+C to shut down.
+2020-12-10 13:18:17,319 Hosting environment: Development
+2020-12-10 13:18:17,349 Content root path: G:\AuditCheckList
+2020-12-10 13:34:18,718 Application started. Press Ctrl+C to shut down.
+2020-12-10 13:34:18,753 Hosting environment: Development
+2020-12-10 13:34:18,777 Content root path: G:\AuditCheckList
+2020-12-10 13:37:03,529 Application started. Press Ctrl+C to shut down.
+2020-12-10 13:37:03,560 Hosting environment: Development
+2020-12-10 13:37:03,569 Content root path: G:\AuditCheckList
+2020-12-10 14:08:15,187 Now listening on: https://localhost:5001
+2020-12-10 14:08:15,218 Now listening on: http://localhost:5000
+2020-12-10 14:08:15,222 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:08:15,224 Hosting environment: Development
+2020-12-10 14:08:15,227 Content root path: G:\AuditCheckList
+2020-12-10 14:08:41,047 Now listening on: https://localhost:5001
+2020-12-10 14:08:41,086 Now listening on: http://localhost:5000
+2020-12-10 14:08:41,094 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:08:41,099 Hosting environment: Development
+2020-12-10 14:08:41,108 Content root path: G:\AuditCheckList
+2020-12-10 14:09:47,581 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:09:47,598 Hosting environment: Development
+2020-12-10 14:09:47,600 Content root path: G:\AuditCheckList
+2020-12-10 14:10:45,986 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:10:46,012 Hosting environment: Development
+2020-12-10 14:10:46,018 Content root path: G:\AuditCheckList
+2020-12-10 14:11:37,060 Http get request initiated with 
+2020-12-10 14:11:37,062 No content Obtained 
+2020-12-10 14:13:53,769 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:13:53,803 Hosting environment: Development
+2020-12-10 14:13:53,809 Content root path: G:\AuditCheckList
+2020-12-10 14:14:28,579 Http get request initiated with 
+2020-12-10 14:14:28,580 No content Obtained 
+2020-12-10 14:16:23,740 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:16:23,765 Hosting environment: Development
+2020-12-10 14:16:23,773 Content root path: G:\AuditCheckList
+2020-12-10 14:19:39,024 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:19:39,092 Hosting environment: Development
+2020-12-10 14:19:39,118 Content root path: G:\AuditCheckList
+2020-12-10 14:26:37,168 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:26:37,218 Hosting environment: Development
+2020-12-10 14:26:37,228 Content root path: G:\AuditCheckList
+2020-12-10 14:33:17,771 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:33:17,836 Hosting environment: Development
+2020-12-10 14:33:17,844 Content root path: G:\AuditCheckList
+2020-12-10 14:34:12,785 Http get request initiated with 
+2020-12-10 14:34:12,786 No content Obtained 
+2020-12-10 14:35:08,592 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:35:08,622 Hosting environment: Development
+2020-12-10 14:35:08,632 Content root path: G:\AuditCheckList
+2020-12-10 14:36:38,734 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:36:38,773 Hosting environment: Development
+2020-12-10 14:36:38,785 Content root path: G:\AuditCheckList
+2020-12-10 14:38:09,347 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:38:09,395 Hosting environment: Development
+2020-12-10 14:38:09,425 Content root path: G:\AuditCheckList
+2020-12-10 14:40:21,174 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:40:21,238 Hosting environment: Development
+2020-12-10 14:40:21,255 Content root path: G:\AuditCheckList
+2020-12-10 14:40:46,534 Http get request initiated with 
+2020-12-10 14:40:46,535 No content Obtained 
+2020-12-10 14:44:56,178 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:44:56,239 Hosting environment: Development
+2020-12-10 14:44:56,251 Content root path: G:\AuditCheckList
+2020-12-10 14:54:02,773 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:54:02,859 Hosting environment: Development
+2020-12-10 14:54:02,870 Content root path: G:\AuditCheckList
+2020-12-10 14:57:47,207 Application started. Press Ctrl+C to shut down.
+2020-12-10 14:57:47,329 Hosting environment: Development
+2020-12-10 14:57:47,374 Content root path: G:\AuditCheckList
+2020-12-10 15:02:44,931 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:02:44,988 Hosting environment: Development
+2020-12-10 15:02:45,023 Content root path: G:\AuditCheckList
+2020-12-10 15:14:57,770 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:14:57,987 Hosting environment: Development
+2020-12-10 15:14:58,027 Content root path: G:\AuditCheckList
+2020-12-10 15:16:19,345 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:16:19,383 Hosting environment: Development
+2020-12-10 15:16:19,390 Content root path: G:\AuditCheckList
+2020-12-10 15:17:26,218 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:17:26,255 Hosting environment: Development
+2020-12-10 15:17:26,262 Content root path: G:\AuditCheckList
+2020-12-10 15:19:47,896 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:19:48,002 Hosting environment: Development
+2020-12-10 15:19:48,024 Content root path: G:\AuditCheckList
+2020-12-10 15:22:57,864 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:22:57,918 Hosting environment: Development
+2020-12-10 15:22:57,945 Content root path: G:\AuditCheckList
+2020-12-10 15:28:40,780 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:28:40,813 Hosting environment: Development
+2020-12-10 15:28:40,818 Content root path: G:\AuditCheckList
+2020-12-10 15:30:54,100 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:30:54,128 Hosting environment: Development
+2020-12-10 15:30:54,143 Content root path: G:\AuditCheckList
+2020-12-10 15:42:49,813 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:42:49,853 Hosting environment: Development
+2020-12-10 15:42:49,864 Content root path: G:\AuditCheckList
+2020-12-10 15:54:24,036 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:54:24,095 Hosting environment: Development
+2020-12-10 15:54:24,194 Content root path: G:\AuditCheckList
+2020-12-10 15:56:10,294 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:56:10,328 Hosting environment: Development
+2020-12-10 15:56:10,339 Content root path: G:\AuditCheckList
+2020-12-10 15:58:15,864 Application started. Press Ctrl+C to shut down.
+2020-12-10 15:58:15,893 Hosting environment: Development
+2020-12-10 15:58:15,933 Content root path: G:\AuditCheckList
+2020-12-10 16:00:09,006 Application started. Press Ctrl+C to shut down.
+2020-12-10 16:00:09,024 Hosting environment: Development
+2020-12-10 16:00:09,030 Content root path: G:\AuditCheckList
+2020-12-10 16:01:50,848 Application started. Press Ctrl+C to shut down.
+2020-12-10 16:01:50,879 Hosting environment: Development
+2020-12-10 16:01:50,902 Content root path: G:\AuditCheckList
+2020-12-10 16:02:36,482 Http get request initiated with Internal
+2020-12-10 16:02:36,483 No content Obtained 
+2020-12-10 16:05:25,769 Application started. Press Ctrl+C to shut down.
+2020-12-10 16:05:25,938 Hosting environment: Development
+2020-12-10 16:05:26,054 Content root path: G:\AuditCheckList
+2020-12-10 16:06:00,992 Http get request initiated with Internal
+2020-12-10 16:11:13,459 Application started. Press Ctrl+C to shut down.
+2020-12-10 16:11:13,495 Hosting environment: Development
+2020-12-10 16:11:13,518 Content root path: G:\AuditCheckList
+2020-12-10 16:11:52,508 Http get request initiated with Internal
+2020-12-10 17:54:37,620 Application started. Press Ctrl+C to shut down.
+2020-12-10 17:54:37,663 Hosting environment: Development
+2020-12-10 17:54:37,677 Content root path: G:\AuditCheckList
+2020-12-11 08:34:45,927 Application started. Press Ctrl+C to shut down.
+2020-12-11 08:34:45,989 Hosting environment: Development
+2020-12-11 08:34:46,000 Content root path: G:\AuditCheckList
+2020-12-11 08:35:55,842 Http get request initiated with SOX
+2020-12-11 09:12:42,093 Application started. Press Ctrl+C to shut down.
+2020-12-11 09:12:42,123 Hosting environment: Development
+2020-12-11 09:12:42,130 Content root path: G:\AuditCheckList
+2020-12-11 09:29:04,491 Application started. Press Ctrl+C to shut down.
+2020-12-11 09:29:04,532 Hosting environment: Development
+2020-12-11 09:29:04,545 Content root path: G:\AuditCheckList
+2020-12-11 09:55:34,098 Application started. Press Ctrl+C to shut down.
+2020-12-11 09:55:34,124 Hosting environment: Development
+2020-12-11 09:55:34,137 Content root path: G:\AuditCheckList
+2020-12-11 09:56:07,509 Http get request initiated with Internal
+2020-12-11 09:57:05,608 Application started. Press Ctrl+C to shut down.
+2020-12-11 09:57:05,641 Hosting environment: Development
+2020-12-11 09:57:05,650 Content root path: G:\AuditCheckList
+2020-12-11 09:57:38,761 Http get request initiated with Internal
+2020-12-11 09:59:16,941 Application started. Press Ctrl+C to shut down.
+2020-12-11 09:59:17,037 Hosting environment: Development
+2020-12-11 09:59:17,050 Content root path: G:\AuditCheckList
+2020-12-11 09:59:45,487 Http get request initiated with SOX
+2020-12-11 10:11:20,034 Application started. Press Ctrl+C to shut down.
+2020-12-11 10:11:20,072 Hosting environment: Development
+2020-12-11 10:11:20,086 Content root path: G:\AuditCheckList
+2020-12-11 10:11:58,605 Http get request initiated with Internal
+2020-12-11 10:30:23,938 Application started. Press Ctrl+C to shut down.
+2020-12-11 10:30:23,970 Hosting environment: Development
+2020-12-11 10:30:23,981 Content root path: G:\AuditCheckList
+2020-12-11 10:33:57,883 Application started. Press Ctrl+C to shut down.
+2020-12-11 10:33:57,978 Hosting environment: Development
+2020-12-11 10:33:57,984 Content root path: G:\AuditCheckList
+2020-12-11 10:34:29,892 Http get request initiated with Internal
+2020-12-11 10:35:09,279 Application started. Press Ctrl+C to shut down.
+2020-12-11 10:35:09,321 Hosting environment: Development
+2020-12-11 10:35:09,367 Content root path: G:\AuditCheckList
+2020-12-11 10:35:35,774 Http get request initiated with Internal
+2020-12-11 11:26:43,842 Application started. Press Ctrl+C to shut down.
+2020-12-11 11:26:43,889 Hosting environment: Development
+2020-12-11 11:26:43,896 Content root path: G:\AuditCheckList
+2020-12-11 11:28:00,675 Http get request initiated with Internal
+2020-12-11 11:37:15,962 Application started. Press Ctrl+C to shut down.
+2020-12-11 11:37:16,007 Hosting environment: Development
+2020-12-11 11:37:16,015 Content root path: G:\AuditCheckList
+2020-12-11 11:37:47,645 Http get request initiated with Internal
+2020-12-11 11:39:45,138 Application started. Press Ctrl+C to shut down.
+2020-12-11 11:39:45,206 Hosting environment: Development
+2020-12-11 11:39:45,277 Content root path: G:\AuditCheckList
+2020-12-11 11:40:56,960 Http get request initiated with Internal
+2020-12-11 11:49:22,624 Application started. Press Ctrl+C to shut down.
+2020-12-11 11:49:22,666 Hosting environment: Development
+2020-12-11 11:49:22,689 Content root path: G:\AuditCheckList
+2020-12-11 11:49:54,840 Http get request initiated with Internal
+2020-12-11 11:57:29,646 Application started. Press Ctrl+C to shut down.
+2020-12-11 11:57:29,691 Hosting environment: Development
+2020-12-11 11:57:29,712 Content root path: G:\AuditCheckList
+2020-12-11 11:58:29,239 Http get request initiated with Internal
+2020-12-11 12:04:38,198 Application started. Press Ctrl+C to shut down.
+2020-12-11 12:04:38,228 Hosting environment: Development
+2020-12-11 12:04:38,239 Content root path: G:\AuditCheckList
+2020-12-11 12:05:38,322 Http get request initiated with Internal
+2020-12-11 12:12:50,792 Application started. Press Ctrl+C to shut down.
+2020-12-11 12:12:50,838 Hosting environment: Development
+2020-12-11 12:12:50,842 Content root path: G:\AuditCheckList
+2020-12-11 12:14:00,726 Http get request initiated with Internal
+2020-12-11 12:32:45,449 Application started. Press Ctrl+C to shut down.
+2020-12-11 12:32:45,492 Hosting environment: Development
+2020-12-11 12:32:45,509 Content root path: G:\AuditCheckList
+2020-12-11 12:33:24,906 Http get request initiated with Internal
+2020-12-11 12:43:02,878 Application started. Press Ctrl+C to shut down.
+2020-12-11 12:43:02,926 Hosting environment: Development
+2020-12-11 12:43:02,942 Content root path: G:\AuditCheckList
+2020-12-11 12:43:33,872 Http get request initiated with Internal
+2020-12-11 12:45:02,680 Application started. Press Ctrl+C to shut down.
+2020-12-11 12:45:02,714 Hosting environment: Development
+2020-12-11 12:45:02,737 Content root path: G:\AuditCheckList
+2020-12-11 12:46:19,079 Http get request initiated with Internal
+2020-12-11 17:10:17,304 Application started. Press Ctrl+C to shut down.
+2020-12-11 17:10:17,353 Hosting environment: Development
+2020-12-11 17:10:17,366 Content root path: G:\AuditCheckList
+2020-12-11 17:11:32,021 Http get request initiated with Internal
+2020-12-11 17:15:40,001 Application started. Press Ctrl+C to shut down.
+2020-12-11 17:15:40,033 Hosting environment: Development
+2020-12-11 17:15:40,039 Content root path: G:\AuditCheckList
+2020-12-11 17:16:16,775 Http get request initiated with Internal
+2020-12-11 17:19:00,621 Application started. Press Ctrl+C to shut down.
+2020-12-11 17:19:00,650 Hosting environment: Development
+2020-12-11 17:19:00,655 Content root path: G:\AuditCheckList
+2020-12-11 17:19:32,415 Http get request initiated with Internal
+2020-12-11 17:22:27,760 Application started. Press Ctrl+C to shut down.
+2020-12-11 17:22:27,798 Hosting environment: Development
+2020-12-11 17:22:27,811 Content root path: G:\AuditCheckList
+2020-12-11 17:22:58,577 Http get request initiated with Internal
+2020-12-11 17:43:31,508 Application started. Press Ctrl+C to shut down.
+2020-12-11 17:43:31,590 Hosting environment: Development
+2020-12-11 17:43:31,601 Content root path: G:\AuditCheckList
+2020-12-11 17:44:00,947 Http get request initiated with Internal
+2020-12-11 17:44:00,948 Successfully returned the questions of type -Internal
+2020-12-11 17:44:58,247 Application started. Press Ctrl+C to shut down.
+2020-12-11 17:44:58,303 Hosting environment: Development
+2020-12-11 17:44:58,403 Content root path: G:\AuditCheckList
+2020-12-11 17:45:40,334 Http get request initiated with Internal
+2020-12-11 17:45:40,336 Successfully returned the questions of type -Internal
+2020-12-11 17:51:55,231 Application started. Press Ctrl+C to shut down.
+2020-12-11 17:51:55,249 Hosting environment: Development
+2020-12-11 17:51:55,257 Content root path: G:\AuditCheckList
+2020-12-11 17:52:49,369 Http get request initiated with Internal
+2020-12-11 17:52:49,369 Successfully returned the questions of type -Internal
+2020-12-11 17:55:01,885 Application started. Press Ctrl+C to shut down.
+2020-12-11 17:55:01,942 Hosting environment: Development
+2020-12-11 17:55:01,966 Content root path: G:\AuditCheckList
+2020-12-11 17:55:28,788 Http get request initiated with Internal
+2020-12-11 17:55:28,789 Successfully returned the questions of type -Internal
+2020-12-11 18:03:35,853 Application started. Press Ctrl+C to shut down.
+2020-12-11 18:03:35,877 Hosting environment: Development
+2020-12-11 18:03:35,883 Content root path: G:\AuditCheckList
+2020-12-11 18:03:58,286 Http get request initiated with Internal
+2020-12-11 18:03:58,287 Successfully returned the questions of type -Internal
+2020-12-11 21:23:34,795 Application started. Press Ctrl+C to shut down.
+2020-12-11 21:23:34,823 Hosting environment: Development
+2020-12-11 21:23:34,828 Content root path: G:\AuditCheckList
+2020-12-11 21:25:30,683 Application started. Press Ctrl+C to shut down.
+2020-12-11 21:25:30,711 Hosting environment: Development
+2020-12-11 21:25:30,729 Content root path: G:\AuditCheckList
+2020-12-11 21:25:55,406 Http get request initiated with Internal
+2020-12-11 21:25:55,406 Successfully returned the questions of type -Internal
+2020-12-12 08:25:02,990 Application started. Press Ctrl+C to shut down.
+2020-12-12 08:25:03,089 Hosting environment: Development
+2020-12-12 08:25:03,098 Content root path: G:\AuditCheckList
+2020-12-12 08:26:00,090 Http get request initiated with Internal
+2020-12-12 08:26:00,091 Successfully returned the questions of type -Internal
+2020-12-12 08:38:06,892 Application started. Press Ctrl+C to shut down.
+2020-12-12 08:38:06,961 Hosting environment: Development
+2020-12-12 08:38:07,008 Content root path: G:\AuditCheckList
+2020-12-12 08:38:34,974 Http get request initiated with Internal
+2020-12-12 08:38:34,976 Successfully returned the questions of type -Internal
+2020-12-12 08:41:36,804 Application started. Press Ctrl+C to shut down.
+2020-12-12 08:41:36,834 Hosting environment: Development
+2020-12-12 08:41:36,847 Content root path: G:\AuditCheckList
+2020-12-12 08:42:08,948 Http get request initiated with SOX
+2020-12-12 08:42:08,950 Successfully returned the questions of type -SOX
+2020-12-12 09:09:21,742 Application started. Press Ctrl+C to shut down.
+2020-12-12 09:09:21,771 Hosting environment: Development
+2020-12-12 09:09:21,781 Content root path: G:\AuditCheckList
+2020-12-12 09:09:52,774 Http get request initiated with Internal
+2020-12-12 09:09:52,775 Successfully returned the questions of type -Internal
+2020-12-12 09:17:09,568 Application started. Press Ctrl+C to shut down.
+2020-12-12 09:17:09,627 Hosting environment: Development
+2020-12-12 09:17:09,645 Content root path: G:\AuditCheckList
+2020-12-12 09:17:40,579 Http get request initiated with Internal
+2020-12-12 09:17:40,581 Successfully returned the questions of type -Internal
+2020-12-12 09:21:30,907 Application started. Press Ctrl+C to shut down.
+2020-12-12 09:21:30,969 Hosting environment: Development
+2020-12-12 09:21:31,000 Content root path: G:\AuditCheckList
+2020-12-12 09:22:38,029 Http get request initiated with SOX
+2020-12-12 09:22:38,030 Successfully returned the questions of type -SOX
+2020-12-12 09:41:15,986 Application started. Press Ctrl+C to shut down.
+2020-12-12 09:41:16,023 Hosting environment: Development
+2020-12-12 09:41:16,027 Content root path: G:\AuditCheckList
+2020-12-12 09:41:41,062 Http get request initiated with Internal
+2020-12-12 09:41:41,063 Successfully returned the questions of type -Internal
+2020-12-12 09:46:07,840 Application started. Press Ctrl+C to shut down.
+2020-12-12 09:46:07,901 Hosting environment: Development
+2020-12-12 09:46:07,914 Content root path: G:\AuditCheckList
+2020-12-12 09:47:21,808 Http get request initiated with Internal
+2020-12-12 09:47:21,809 Successfully returned the questions of type -Internal
+2020-12-12 09:58:02,764 Application started. Press Ctrl+C to shut down.
+2020-12-12 09:58:02,811 Hosting environment: Development
+2020-12-12 09:58:02,843 Content root path: G:\AuditCheckList
+2020-12-12 09:58:57,500 Http get request initiated with Internal
+2020-12-12 09:58:57,501 Successfully returned the questions of type -Internal
+2020-12-12 10:12:21,079 Application started. Press Ctrl+C to shut down.
+2020-12-12 10:12:21,124 Hosting environment: Development
+2020-12-12 10:12:21,129 Content root path: G:\AuditCheckList
+2020-12-12 10:12:45,773 Http get request initiated with Internal
+2020-12-12 10:12:45,773 Successfully returned the questions of type -Internal
+2020-12-12 10:20:34,313 Application started. Press Ctrl+C to shut down.
+2020-12-12 10:20:34,341 Hosting environment: Development
+2020-12-12 10:20:34,353 Content root path: G:\AuditCheckList
+2020-12-12 10:21:04,688 Http get request initiated with Internal
+2020-12-12 10:21:04,689 Successfully returned the questions of type -Internal
+2020-12-12 10:25:10,857 Application started. Press Ctrl+C to shut down.
+2020-12-12 10:25:10,895 Hosting environment: Development
+2020-12-12 10:25:10,940 Content root path: G:\AuditCheckList
+2020-12-12 10:25:36,601 Http get request initiated with Internal
+2020-12-12 10:25:36,602 Successfully returned the questions of type -Internal
+2020-12-12 10:27:41,533 Application started. Press Ctrl+C to shut down.
+2020-12-12 10:27:41,570 Hosting environment: Development
+2020-12-12 10:27:41,585 Content root path: G:\AuditCheckList
+2020-12-12 10:28:05,923 Http get request initiated with Internal
+2020-12-12 10:28:05,924 Successfully returned the questions of type -Internal
+2020-12-12 10:49:10,697 Application started. Press Ctrl+C to shut down.
+2020-12-12 10:49:10,809 Hosting environment: Development
+2020-12-12 10:49:10,825 Content root path: G:\AuditCheckList
+2020-12-12 10:49:40,362 Http get request initiated with Internal
+2020-12-12 10:49:40,363 Successfully returned the questions of type -Internal
+2020-12-12 10:54:28,750 Application started. Press Ctrl+C to shut down.
+2020-12-12 10:54:28,781 Hosting environment: Development
+2020-12-12 10:54:28,801 Content root path: G:\AuditCheckList
+2020-12-12 10:54:52,183 Http get request initiated with Internal
+2020-12-12 10:54:52,184 Successfully returned the questions of type -Internal
+2020-12-12 10:58:08,668 Application started. Press Ctrl+C to shut down.
+2020-12-12 10:58:08,694 Hosting environment: Development
+2020-12-12 10:58:08,704 Content root path: G:\AuditCheckList
+2020-12-12 10:58:35,261 Http get request initiated with Internal
+2020-12-12 10:58:35,262 Successfully returned the questions of type -Internal
+2020-12-12 11:00:23,597 Application started. Press Ctrl+C to shut down.
+2020-12-12 11:00:23,672 Hosting environment: Development
+2020-12-12 11:00:23,714 Content root path: G:\AuditCheckList
+2020-12-12 11:00:48,077 Http get request initiated with Internal
+2020-12-12 11:00:48,078 Successfully returned the questions of type -Internal
+2020-12-12 11:05:08,244 Application started. Press Ctrl+C to shut down.
+2020-12-12 11:05:08,357 Hosting environment: Development
+2020-12-12 11:05:08,470 Content root path: G:\AuditCheckList
+2020-12-12 11:05:35,769 Http get request initiated with Internal
+2020-12-12 11:05:35,770 Successfully returned the questions of type -Internal
+2020-12-12 11:11:07,451 Application started. Press Ctrl+C to shut down.
+2020-12-12 11:11:07,540 Hosting environment: Development
+2020-12-12 11:11:07,727 Content root path: G:\AuditCheckList
+2020-12-12 11:11:38,395 Http get request initiated with Internal
+2020-12-12 11:11:38,396 Successfully returned the questions of type -Internal
+2020-12-12 11:16:35,204 Application started. Press Ctrl+C to shut down.
+2020-12-12 11:16:35,241 Hosting environment: Development
+2020-12-12 11:16:35,250 Content root path: G:\AuditCheckList
+2020-12-12 11:16:59,464 Http get request initiated with SOX
+2020-12-12 11:16:59,469 Successfully returned the questions of type -SOX
+2020-12-12 11:28:27,183 Application started. Press Ctrl+C to shut down.
+2020-12-12 11:28:27,223 Hosting environment: Development
+2020-12-12 11:28:27,238 Content root path: G:\AuditCheckList
+2020-12-12 11:28:52,575 Http get request initiated with Internal
+2020-12-12 11:28:52,576 Successfully returned the questions of type -Internal
+2020-12-15 10:16:23,244 Application is shutting down...
+2020-12-15 10:16:23,244 Application started. Press Ctrl+C to shut down.
+2020-12-15 10:16:23,339 Hosting environment: Development
+2020-12-15 10:16:23,346 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 10:17:26,641 Application started. Press Ctrl+C to shut down.
+2020-12-15 10:17:26,670 Hosting environment: Development
+2020-12-15 10:17:26,679 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 10:18:21,461 Http get request initiated with Internal
+2020-12-15 10:18:21,462 Repository layer has been called with AuditType -Internal
+2020-12-15 10:18:21,462 Successfully got checklist from repo layer
+2020-12-15 10:18:21,462 Successfully returned the questions of type -Internal
+2020-12-15 10:21:48,702 Application started. Press Ctrl+C to shut down.
+2020-12-15 10:21:48,757 Hosting environment: Development
+2020-12-15 10:21:48,801 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 10:22:33,381 Http get request initiated with Internal
+2020-12-15 10:22:33,382 Repository layer has been called with AuditType -Internal
+2020-12-15 10:22:33,382 Successfully got checklist from repo layer
+2020-12-15 10:22:33,382 Successfully returned the questions of type -Internal
+2020-12-15 10:24:17,604 Application started. Press Ctrl+C to shut down.
+2020-12-15 10:24:17,630 Hosting environment: Development
+2020-12-15 10:24:17,636 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 10:25:07,253 Http get request initiated with Internal
+2020-12-15 10:25:07,256 Repository layer has been called with AuditType -Internal
+2020-12-15 10:25:07,257 Successfully got checklist from repo layer
+2020-12-15 10:25:07,257 Successfully returned the questions of type -Internal
+2020-12-15 10:52:50,653 Application started. Press Ctrl+C to shut down.
+2020-12-15 10:52:50,732 Hosting environment: Development
+2020-12-15 10:52:50,749 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 10:54:34,100 Application started. Press Ctrl+C to shut down.
+2020-12-15 10:54:34,224 Hosting environment: Development
+2020-12-15 10:54:34,315 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 10:55:54,158 Application started. Press Ctrl+C to shut down.
+2020-12-15 10:55:54,187 Hosting environment: Development
+2020-12-15 10:55:54,211 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 10:57:37,561 Application started. Press Ctrl+C to shut down.
+2020-12-15 10:57:37,581 Hosting environment: Development
+2020-12-15 10:57:37,585 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 10:58:14,724 Http get request initiated with Internal
+2020-12-15 10:58:14,725 Repository layer has been called with AuditType -Internal
+2020-12-15 10:58:14,725 Successfully got checklist from repo layer
+2020-12-15 10:58:14,725 Successfully returned the questions of type -Internal
+2020-12-15 11:29:27,639 Application started. Press Ctrl+C to shut down.
+2020-12-15 11:29:27,755 Hosting environment: Development
+2020-12-15 11:29:27,861 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 11:30:00,826 Http get request initiated with Internal
+2020-12-15 11:30:00,827 Repository layer has been called with AuditType -Internal
+2020-12-15 11:30:00,827 Successfully got checklist from repo layer
+2020-12-15 11:30:00,827 Successfully returned the questions of type -Internal
+2020-12-15 11:30:51,547 Http get request initiated with Internal
+2020-12-15 11:30:51,551 Repository layer has been called with AuditType -Internal
+2020-12-15 11:30:51,551 Successfully got checklist from repo layer
+2020-12-15 11:30:51,551 Successfully returned the questions of type -Internal
+2020-12-15 11:31:46,524 Http get request initiated with SOX
+2020-12-15 11:31:46,525 Repository layer has been called with AuditType -SOX
+2020-12-15 11:31:46,525 Successfully got checklist from repo layer
+2020-12-15 11:31:46,525 Successfully returned the questions of type -SOX
+2020-12-15 11:32:19,356 Http get request initiated with SOX
+2020-12-15 11:32:19,356 Repository layer has been called with AuditType -SOX
+2020-12-15 11:32:19,356 Successfully got checklist from repo layer
+2020-12-15 11:32:19,356 Successfully returned the questions of type -SOX
+2020-12-15 11:35:54,386 Application started. Press Ctrl+C to shut down.
+2020-12-15 11:35:54,425 Hosting environment: Development
+2020-12-15 11:35:54,440 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 11:41:31,269 Application started. Press Ctrl+C to shut down.
+2020-12-15 11:41:31,419 Hosting environment: Development
+2020-12-15 11:41:31,770 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 11:42:20,440 Application started. Press Ctrl+C to shut down.
+2020-12-15 11:42:20,493 Hosting environment: Development
+2020-12-15 11:42:20,525 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 11:43:45,274 Application started. Press Ctrl+C to shut down.
+2020-12-15 11:43:45,338 Hosting environment: Development
+2020-12-15 11:43:45,414 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 12:15:45,081 Application started. Press Ctrl+C to shut down.
+2020-12-15 12:15:45,227 Hosting environment: Development
+2020-12-15 12:15:45,331 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 12:16:24,247 Http get request initiated with Internal
+2020-12-15 12:16:24,249 Repository layer has been called with AuditType -Internal
+2020-12-15 12:16:24,249 Successfully got checklist from repo layer of type Internal
+2020-12-15 12:16:24,249 Successfully returned the questions of type -Internal
+2020-12-15 12:18:56,265 Application started. Press Ctrl+C to shut down.
+2020-12-15 12:18:56,337 Hosting environment: Development
+2020-12-15 12:18:56,384 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 12:19:41,770 Http get request initiated with Internal
+2020-12-15 12:19:41,772 Repository layer has been called with AuditType -Internal
+2020-12-15 12:19:41,772 Successfully got checklist from repo layer of type Internal
+2020-12-15 12:19:41,772 Successfully returned the questions of type -Internal
+2020-12-15 13:22:35,293 Application started. Press Ctrl+C to shut down.
+2020-12-15 13:22:35,336 Hosting environment: Development
+2020-12-15 13:22:35,372 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 13:28:43,351 Application started. Press Ctrl+C to shut down.
+2020-12-15 13:28:43,386 Hosting environment: Development
+2020-12-15 13:28:43,460 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 13:30:28,768 Http get request initiated with Internal
+2020-12-15 13:30:28,770 Repository layer has been called with AuditType -Internal
+2020-12-15 13:30:28,771 Successfully got checklist from repo layer of type Internal
+2020-12-15 13:30:28,771 Successfully returned the questions of type -Internal
+2020-12-15 13:45:01,097 Application started. Press Ctrl+C to shut down.
+2020-12-15 13:45:01,138 Hosting environment: Development
+2020-12-15 13:45:01,149 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 13:45:51,026 Http get request initiated with SOX
+2020-12-15 13:45:51,027 Repository layer has been called with AuditType -SOX
+2020-12-15 13:45:51,027 Successfully got checklist from repo layer of type SOX
+2020-12-15 13:45:51,027 Successfully returned the questions of type -SOX
+2020-12-15 13:47:35,792 Application started. Press Ctrl+C to shut down.
+2020-12-15 13:47:35,949 Hosting environment: Development
+2020-12-15 13:47:35,995 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 13:48:12,326 Http get request initiated with Internal
+2020-12-15 13:48:12,328 Repository layer has been called with AuditType -Internal
+2020-12-15 13:48:12,329 Successfully got checklist from repo layer of type Internal
+2020-12-15 13:48:12,329 Successfully returned the questions of type -Internal
+2020-12-15 13:48:58,051 Http get request initiated with SOX
+2020-12-15 13:48:58,052 Repository layer has been called with AuditType -SOX
+2020-12-15 13:48:58,052 Successfully got checklist from repo layer of type SOX
+2020-12-15 13:48:58,052 Successfully returned the questions of type -SOX
+2020-12-15 13:52:40,232 Application started. Press Ctrl+C to shut down.
+2020-12-15 13:52:40,271 Hosting environment: Development
+2020-12-15 13:52:40,280 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 13:53:38,579 Http get request initiated with Internal
+2020-12-15 13:53:38,580 Repository layer has been called with AuditType -Internal
+2020-12-15 13:53:38,581 Successfully got checklist from repo layer of type Internal
+2020-12-15 13:53:38,581 Successfully returned the questions of type -Internal
+2020-12-15 13:56:06,680 Application started. Press Ctrl+C to shut down.
+2020-12-15 13:56:06,710 Hosting environment: Development
+2020-12-15 13:56:06,736 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 13:57:08,506 Http get request initiated with SOX
+2020-12-15 13:57:08,507 Repository layer has been called with AuditType -SOX
+2020-12-15 13:57:08,508 Successfully got checklist from repo layer of type SOX
+2020-12-15 13:57:08,508 Successfully returned the questions of type -SOX
+2020-12-15 15:51:21,866 Application started. Press Ctrl+C to shut down.
+2020-12-15 15:51:21,907 Hosting environment: Development
+2020-12-15 15:51:21,978 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 15:52:14,935 Http get request initiated with SOX
+2020-12-15 15:52:14,936 Repository layer has been called with AuditType -SOX
+2020-12-15 15:52:14,936 Successfully got checklist from repo layer of type SOX
+2020-12-15 15:52:14,936 Successfully returned the questions of type -SOX
+2020-12-15 16:44:17,827 Application started. Press Ctrl+C to shut down.
+2020-12-15 16:44:17,930 Hosting environment: Development
+2020-12-15 16:44:17,939 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 16:46:46,759 Application started. Press Ctrl+C to shut down.
+2020-12-15 16:46:46,820 Hosting environment: Development
+2020-12-15 16:46:46,842 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 16:49:58,766 Application started. Press Ctrl+C to shut down.
+2020-12-15 16:49:58,811 Hosting environment: Development
+2020-12-15 16:49:58,832 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 16:51:52,998 Application started. Press Ctrl+C to shut down.
+2020-12-15 16:51:53,047 Hosting environment: Development
+2020-12-15 16:51:53,065 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 16:57:48,260 Application started. Press Ctrl+C to shut down.
+2020-12-15 16:57:48,386 Hosting environment: Development
+2020-12-15 16:57:48,459 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 16:58:41,369 Application started. Press Ctrl+C to shut down.
+2020-12-15 16:58:41,447 Hosting environment: Development
+2020-12-15 16:58:41,486 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 16:59:45,872 Http get request initiated with Internal
+2020-12-15 16:59:45,873 Repository layer has been called with AuditType -Internal
+2020-12-15 16:59:45,873 Successfully got checklist from repo layer of type Internal
+2020-12-15 16:59:45,873 Successfully returned the questions of type -Internal
+2020-12-15 18:00:49,275 Application started. Press Ctrl+C to shut down.
+2020-12-15 18:00:49,366 Hosting environment: Development
+2020-12-15 18:00:49,502 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 18:03:05,006 Http get request initiated with Internal
+2020-12-15 18:03:05,008 Repository layer has been called with AuditType -Internal
+2020-12-15 18:03:05,008 Successfully got checklist from repo layer of type Internal
+2020-12-15 18:03:05,008 Successfully returned the questions of type -Internal
+2020-12-15 18:03:49,954 Http get request initiated with SOX
+2020-12-15 18:03:49,955 Repository layer has been called with AuditType -SOX
+2020-12-15 18:03:49,955 Successfully got checklist from repo layer of type SOX
+2020-12-15 18:03:49,956 Successfully returned the questions of type -SOX
+2020-12-15 18:07:28,383 Application started. Press Ctrl+C to shut down.
+2020-12-15 18:07:28,529 Hosting environment: Development
+2020-12-15 18:07:28,607 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 18:08:30,467 Http get request initiated with Internal
+2020-12-15 18:08:30,468 Repository layer has been called with AuditType -Internal
+2020-12-15 18:08:30,469 Successfully got checklist from repo layer of type Internal
+2020-12-15 18:08:30,469 Successfully returned the questions of type -Internal
+2020-12-15 18:12:13,910 Application started. Press Ctrl+C to shut down.
+2020-12-15 18:12:13,963 Hosting environment: Development
+2020-12-15 18:12:13,985 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 18:12:55,918 Http get request initiated with Internal
+2020-12-15 18:12:55,920 Repository layer has been called with AuditType -Internal
+2020-12-15 18:12:55,921 Successfully got checklist from repo layer of type Internal
+2020-12-15 18:12:55,921 Successfully returned the questions of type -Internal
+2020-12-15 19:13:26,814 Application started. Press Ctrl+C to shut down.
+2020-12-15 19:13:26,878 Hosting environment: Development
+2020-12-15 19:13:26,977 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 19:14:10,668 Http get request initiated with SOX
+2020-12-15 19:14:10,669 Repository layer has been called with AuditType -SOX
+2020-12-15 19:14:10,669 Successfully got checklist from repo layer of type SOX
+2020-12-15 19:14:10,669 Successfully returned the questions of type -SOX
+2020-12-15 19:31:35,502 Application started. Press Ctrl+C to shut down.
+2020-12-15 19:31:35,531 Hosting environment: Development
+2020-12-15 19:31:35,536 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 19:32:51,959 Http get request initiated with SOX
+2020-12-15 19:32:51,960 Repository layer has been called with AuditType -SOX
+2020-12-15 19:32:51,960 Successfully got checklist from repo layer of type SOX
+2020-12-15 19:32:51,960 Successfully returned the questions of type -SOX
+2020-12-15 19:33:20,173 Http get request initiated with SOX
+2020-12-15 19:33:20,173 Repository layer has been called with AuditType -SOX
+2020-12-15 19:33:20,173 Successfully got checklist from repo layer of type SOX
+2020-12-15 19:33:20,173 Successfully returned the questions of type -SOX
+2020-12-15 19:41:53,841 Application started. Press Ctrl+C to shut down.
+2020-12-15 19:41:53,876 Hosting environment: Development
+2020-12-15 19:41:53,899 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-15 19:42:22,800 Http get request initiated with Internal
+2020-12-15 19:42:22,801 Repository layer has been called with AuditType -Internal
+2020-12-15 19:42:22,801 Successfully got checklist from repo layer of type Internal
+2020-12-15 19:42:22,801 Successfully returned the questions of type -Internal
+2020-12-16 09:27:34,509 Application started. Press Ctrl+C to shut down.
+2020-12-16 09:27:34,556 Hosting environment: Development
+2020-12-16 09:27:34,561 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-16 09:29:43,085 Http get request initiated with Internal
+2020-12-16 09:29:43,086 Repository layer has been called with AuditType -Internal
+2020-12-16 09:29:43,087 Successfully got checklist from repo layer of type Internal
+2020-12-16 09:29:43,087 Successfully returned the questions of type -Internal
+2020-12-16 10:41:09,544 Application started. Press Ctrl+C to shut down.
+2020-12-16 10:41:09,701 Hosting environment: Development
+2020-12-16 10:41:09,825 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-16 10:43:03,134 Http get request initiated with SOX
+2020-12-16 10:43:03,136 Repository layer has been called with AuditType -SOX
+2020-12-16 10:43:03,136 Successfully got checklist from repo layer of type SOX
+2020-12-16 10:43:03,136 Successfully returned the questions of type -SOX
+2020-12-16 11:43:37,150 Application started. Press Ctrl+C to shut down.
+2020-12-16 11:43:37,213 Hosting environment: Development
+2020-12-16 11:43:37,229 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-16 11:44:43,125 Http get request initiated with SOX
+2020-12-16 11:44:43,127 Repository layer has been called with AuditType -SOX
+2020-12-16 11:44:43,127 Successfully got checklist from repo layer of type SOX
+2020-12-16 11:44:43,127 Successfully returned the questions of type -SOX
+2020-12-16 13:35:02,362 Application started. Press Ctrl+C to shut down.
+2020-12-16 13:35:02,414 Hosting environment: Development
+2020-12-16 13:35:02,439 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-16 13:35:57,802 Http get request initiated with SOX
+2020-12-16 13:35:57,803 Repository layer has been called with AuditType -SOX
+2020-12-16 13:35:57,804 Successfully got checklist from repo layer of type SOX
+2020-12-16 13:35:57,804 Successfully returned the questions of type -SOX
+2020-12-16 14:18:15,335 Application started. Press Ctrl+C to shut down.
+2020-12-16 14:18:17,031 Hosting environment: Development
+2020-12-16 14:18:17,231 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-16 14:24:26,872 Http get request initiated with Internal
+2020-12-16 14:24:26,873 Repository layer has been called with AuditType -Internal
+2020-12-16 14:24:26,873 Successfully got checklist from repo layer of type Internal
+2020-12-16 14:24:26,873 Successfully returned the questions of type -Internal
+2020-12-17 12:01:10,662 Application started. Press Ctrl+C to shut down.
+2020-12-17 12:01:10,717 Hosting environment: Development
+2020-12-17 12:01:10,733 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-17 12:02:21,417 Http get request initiated with Internal
+2020-12-17 12:02:21,420 Repository layer has been called with AuditType -Internal
+2020-12-17 12:02:21,421 Successfully got checklist from repo layer of type Internal
+2020-12-17 12:02:21,421 Successfully returned the questions of type -Internal
+2020-12-17 12:54:22,853 Application started. Press Ctrl+C to shut down.
+2020-12-17 12:54:23,012 Hosting environment: Development
+2020-12-17 12:54:23,157 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-17 12:55:15,234 Http get request initiated with Internal
+2020-12-17 12:55:15,236 Repository layer has been called with AuditType -Internal
+2020-12-17 12:55:15,236 Successfully got checklist from repo layer of type Internal
+2020-12-17 12:55:15,236 Successfully returned the questions of type -Internal
+2020-12-17 13:44:07,027 Application started. Press Ctrl+C to shut down.
+2020-12-17 13:44:07,518 Hosting environment: Development
+2020-12-17 13:44:07,834 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-17 13:46:56,887 Application started. Press Ctrl+C to shut down.
+2020-12-17 13:46:56,984 Hosting environment: Development
+2020-12-17 13:46:57,077 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-17 13:47:36,820 Http get request initiated with Internal
+2020-12-17 13:47:36,822 Repository layer has been called with AuditType -Internal
+2020-12-17 13:47:36,823 Successfully got checklist from repo layer of type Internal
+2020-12-17 13:47:36,823 Successfully returned the questions of type -Internal
+2020-12-17 13:50:39,931 Application started. Press Ctrl+C to shut down.
+2020-12-17 13:50:40,053 Hosting environment: Development
+2020-12-17 13:50:40,147 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-17 13:51:05,687 Http get request initiated with Internal
+2020-12-17 13:51:05,689 Repository layer has been called with AuditType -Internal
+2020-12-17 13:51:05,689 Successfully got checklist from repo layer of type Internal
+2020-12-17 13:51:05,689 Successfully returned the questions of type -Internal
+2020-12-17 13:54:09,868 Application started. Press Ctrl+C to shut down.
+2020-12-17 13:54:09,923 Hosting environment: Development
+2020-12-17 13:54:10,000 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-17 13:54:40,373 Http get request initiated with Internal
+2020-12-17 13:54:40,375 Repository layer has been called with AuditType -Internal
+2020-12-17 13:54:40,376 Successfully got checklist from repo layer of type Internal
+2020-12-17 13:54:40,377 Successfully returned the questions of type -Internal
+2020-12-17 13:57:13,893 Application started. Press Ctrl+C to shut down.
+2020-12-17 13:57:14,297 Hosting environment: Development
+2020-12-17 13:57:14,630 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-17 13:57:52,382 Http get request initiated with SOX
+2020-12-17 13:57:52,386 Repository layer has been called with AuditType -SOX
+2020-12-17 13:57:52,386 Successfully got checklist from repo layer of type SOX
+2020-12-17 13:57:52,386 Successfully returned the questions of type -SOX
+2020-12-17 14:25:21,747 Application started. Press Ctrl+C to shut down.
+2020-12-17 14:25:21,786 Hosting environment: Development
+2020-12-17 14:25:21,802 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-17 14:25:53,068 Http get request initiated with SOX
+2020-12-17 14:25:53,069 Repository layer has been called with AuditType -SOX
+2020-12-17 14:25:53,070 Successfully got checklist from repo layer of type SOX
+2020-12-17 14:25:53,070 Successfully returned the questions of type -SOX
+2020-12-19 18:27:23,110 Application started. Press Ctrl+C to shut down.
+2020-12-19 18:27:23,166 Hosting environment: Development
+2020-12-19 18:27:23,179 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-19 18:28:02,926 Http get request initiated with SOX
+2020-12-19 18:28:02,927 Repository layer has been called with AuditType -SOX
+2020-12-19 18:28:02,928 Successfully got checklist from repo layer of type SOX
+2020-12-19 18:28:02,928 Successfully returned the questions of type -SOX
+2020-12-19 19:47:40,999 Application started. Press Ctrl+C to shut down.
+2020-12-19 19:47:41,014 Hosting environment: Development
+2020-12-19 19:47:41,017 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-19 19:48:33,004 Http get request initiated with SOX
+2020-12-19 19:48:33,006 Repository layer has been called with AuditType -SOX
+2020-12-19 19:48:33,006 Successfully got checklist from repo layer of type SOX
+2020-12-19 19:48:33,006 Successfully returned the questions of type -SOX
+2020-12-19 20:12:38,874 Application started. Press Ctrl+C to shut down.
+2020-12-19 20:12:38,899 Hosting environment: Development
+2020-12-19 20:12:38,903 Content root path: G:\Final\Audit-Management\AuditCheckList
+2020-12-19 20:13:57,131 Http get request initiated with Internal
+2020-12-19 20:13:57,132 Repository layer has been called with AuditType -Internal
+2020-12-19 20:13:57,132 Successfully got checklist from repo layer of type Internal
+2020-12-19 20:13:57,132 Successfully returned the questions of type -Internal
